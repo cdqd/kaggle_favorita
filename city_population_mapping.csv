@@ -1,0 +1,1259 @@
+code,city_municipality,population,poverty_incidence_estimate,poverty_incidence_stderr,gini_estimate,gini_stderr,state
+0101,Cuenca,"499,800",0.15,0.01,0.37,0.01,Azuay
+010150,Cuenca,"326,535",0.07,0.00,0.34,0.01,Azuay
+010151,Baños,"16,795",0.24,0.02,0.34,0.01,Azuay
+010152,Cumbe,"5,511",0.35,0.03,0.31,0.01,Azuay
+010153,Chaucha,"1,284",0.53,0.04,0.30,0.01,Azuay
+010154,Checa (Jidcay),"2,741",0.27,0.02,0.30,0.01,Azuay
+010155,Chiquintad,"4,826",0.26,0.02,0.30,0.01,Azuay
+010156,Llacao,"5,342",0.30,0.03,0.30,0.01,Azuay
+010157,Molleturo,"7,035",0.49,0.02,0.29,0.01,Azuay
+010158,Nulti,"4,322",0.28,0.03,0.30,0.01,Azuay
+010159,Octavio Cordero Palacios (Santa Rosa),"2,271",0.32,0.03,0.29,0.01,Azuay
+010160,Paccha,"6,467",0.26,0.02,0.30,0.01,Azuay
+010161,Quingeo,"7,432",0.59,0.02,0.28,0.01,Azuay
+010162,Ricaurte,"19,263",0.19,0.01,0.32,0.01,Azuay
+010163,San Joaquín,"7,455",0.28,0.02,0.34,0.01,Azuay
+010164,Santa Ana,"5,363",0.39,0.03,0.29,0.01,Azuay
+010165,Sayausi,"8,362",0.39,0.04,0.31,0.01,Azuay
+010166,Sidcay,"3,964",0.27,0.03,0.28,0.01,Azuay
+010167,Sinincay,"15,853",0.28,0.02,0.29,0.01,Azuay
+010168,Tarqui,"10,490",0.36,0.02,0.30,0.01,Azuay
+010169,Turi,"8,944",0.30,0.02,0.31,0.01,Azuay
+010170,Valle,"24,304",0.22,0.01,0.31,0.01,Azuay
+010171,Victoria del Portete (Irquis),"5,241",0.38,0.03,0.30,0.01,Azuay
+0102,Girón,"12,485",0.37,0.03,0.31,0.01,Azuay
+010250,Girón,"8,381",0.39,0.04,0.32,0.01,Azuay
+010251,Asunción,"3,029",0.31,0.03,0.29,0.01,Azuay
+010252,San Gerardo,"1,075",0.41,0.05,0.28,0.01,Azuay
+0103,Gualaceo,"42,433",0.35,0.02,0.33,0.01,Azuay
+010350,Gualaceo,"21,189",0.26,0.03,0.34,0.01,Azuay
+010352,Daniel Cordova Toral (El Oriente),"1,702",0.27,0.04,0.28,0.01,Azuay
+010353,Jadan,"4,320",0.47,0.03,0.29,0.01,Azuay
+010354,Mariano Moreno,"2,616",0.30,0.03,0.28,0.01,Azuay
+010356,Remigio Crespo Toral (Gulag),"1,412",0.24,0.04,0.28,0.01,Azuay
+010357,San Juan,"5,291",0.58,0.03,0.29,0.01,Azuay
+010358,Zhidmad,"2,745",0.50,0.04,0.28,0.01,Azuay
+010359,Luis Cordero Vega,"2,030",0.32,0.04,0.28,0.01,Azuay
+010360,Simón Bolívar,"1,128",0.52,0.06,0.28,0.01,Azuay
+0104,Nabón,"15,795",0.51,0.02,0.30,0.01,Azuay
+010450,Nabón,"9,463",0.51,0.02,0.31,0.01,Azuay
+010451,Cochapata,"3,057",0.53,0.04,0.29,0.01,Azuay
+010452,El Progreso (Cab. En Zhota),"1,993",0.57,0.04,0.29,0.01,Azuay
+010453,Las Nieves (Chaya),"1,282",0.43,0.04,0.29,0.01,Azuay
+0105,Paute,"25,334",0.31,0.02,0.31,0.01,Azuay
+010550,Paute,"9,763",0.27,0.03,0.33,0.01,Azuay
+010552,Bulán,"2,172",0.34,0.04,0.28,0.01,Azuay
+010553,Chicán,"3,594",0.32,0.03,0.29,0.01,Azuay
+010554,El Cabo,"3,320",0.31,0.03,0.29,0.01,Azuay
+010556,Guarainag,842,0.28,0.04,0.27,0.01,Azuay
+010559,San Cristobal,"2,398",0.41,0.04,0.29,0.01,Azuay
+010561,Tomebamba,"1,345",0.40,0.04,0.28,0.01,Azuay
+010562,Dug-Dug,"1,900",0.34,0.05,0.28,0.01,Azuay
+0106,Pucará,"9,967",0.60,0.02,0.30,0.01,Azuay
+010650,Pucará,"8,142",0.58,0.02,0.30,0.01,Azuay
+010652,San Rafael de Sharug,"1,825",0.65,0.04,0.29,0.01,Azuay
+0107,San Fernando,"3,974",0.30,0.04,0.31,0.01,Azuay
+010750,San Fernando,"3,225",0.28,0.04,0.31,0.01,Azuay
+010751,Chumblín,749,0.39,0.07,0.28,0.02,Azuay
+0108,Santa Isabel,"18,237",0.40,0.02,0.33,0.01,Azuay
+010850,Santa Isabel,"9,834",0.38,0.03,0.34,0.01,Azuay
+010851,Abdón Calderón (La Unión),"4,574",0.35,0.03,0.31,0.01,Azuay
+010853,Zhaglli (Shaglli),"2,150",0.50,0.04,0.29,0.01,Azuay
+010854,San Salvador de Cañarimba,"1,679",0.60,0.05,0.28,0.01,Azuay
+0109,Sigsig,"26,824",0.38,0.02,0.32,0.01,Azuay
+010950,Sigsig,"11,111",0.31,0.02,0.33,0.01,Azuay
+010951,Cuchil (Cutchil),"1,688",0.31,0.04,0.30,0.01,Azuay
+010952,Gima,"2,886",0.32,0.03,0.29,0.01,Azuay
+010953,Guel,"1,336",0.38,0.06,0.28,0.01,Azuay
+010954,Ludo,"3,351",0.56,0.03,0.30,0.01,Azuay
+010955,San Bartolomé,"4,101",0.45,0.03,0.30,0.01,Azuay
+010956,San José de Raranga,"2,351",0.48,0.04,0.28,0.01,Azuay
+0110,Oña,"3,564",0.49,0.04,0.32,0.01,Azuay
+011050,Oña,"2,376",0.44,0.04,0.31,0.01,Azuay
+011051,Susudel,"1,188",0.57,0.06,0.31,0.02,Azuay
+0111,Chordeleg,"12,515",0.34,0.02,0.34,0.01,Azuay
+011150,Chordeleg,"6,762",0.22,0.02,0.33,0.01,Azuay
+011151,Principal,"1,331",0.24,0.04,0.28,0.01,Azuay
+011152,La Unión,"1,889",0.55,0.06,0.27,0.01,Azuay
+011153,Luis Galarza Orellana (Delegsol),"1,467",0.60,0.05,0.28,0.01,Azuay
+011154,San Martín de Puzhio,"1,066",0.53,0.07,0.27,0.02,Azuay
+0112,El Pan,"3,035",0.21,0.03,0.28,0.01,Azuay
+011250,El Pan,"1,195",0.19,0.04,0.28,0.02,Azuay
+011253,San Vicente,"1,840",0.23,0.04,0.27,0.01,Azuay
+0113,Sevilla de Oro,"5,600",0.27,0.03,0.29,0.01,Azuay
+011350,Sevilla de Oro,"2,237",0.26,0.04,0.29,0.01,Azuay
+011351,Amaluza,"1,149",0.32,0.04,0.31,0.02,Azuay
+011352,Palmas,"2,214",0.26,0.03,0.29,0.01,Azuay
+0114,Guachapala,"3,396",0.26,0.03,0.29,0.01,Azuay
+011450,Guachapala,"3,396",0.26,0.03,0.29,0.01,Azuay
+0115,Camilo Ponce Enríquez,"19,834",0.38,0.02,0.31,0.01,Azuay
+011550,Camilo Ponce Enríquez,"15,434",0.32,0.03,0.30,0.01,Azuay
+011551,El Carmen de Pijilí,"4,400",0.60,0.04,0.28,0.01,Azuay
+0201,Guaranda,"91,024",0.51,0.01,0.39,0.01,Bolivar
+020150,Guaranda,"54,765",0.41,0.02,0.39,0.01,Bolivar
+020151,Facundo Vela,"3,315",0.61,0.03,0.33,0.02,Bolivar
+020153,Julio E. Moreno (Catanahuan Grande),"2,938",0.71,0.04,0.31,0.01,Bolivar
+020155,Salinas,"5,771",0.55,0.03,0.31,0.01,Bolivar
+020156,San Lorenzo,"1,836",0.53,0.06,0.32,0.02,Bolivar
+020157,San Simón (Yacoto),"4,195",0.74,0.04,0.31,0.01,Bolivar
+020158,Santafé (Santa Fé),"1,749",0.63,0.06,0.32,0.01,Bolivar
+020159,Simiatug,"11,107",0.79,0.02,0.32,0.01,Bolivar
+020160,San Luis de Pambil,"5,348",0.47,0.05,0.30,0.01,Bolivar
+0202,Chillanes,"17,275",0.59,0.04,0.34,0.01,Bolivar
+020250,Chillanes,"13,169",0.59,0.04,0.35,0.01,Bolivar
+020251,San José del Tambo (Tambopamba),"4,106",0.56,0.05,0.33,0.01,Bolivar
+0203,Chimbo,"15,456",0.41,0.03,0.34,0.01,Bolivar
+020350,San José de Chimbo,"5,646",0.30,0.04,0.33,0.01,Bolivar
+020351,Asunción (Asancoto),"2,692",0.49,0.04,0.37,0.02,Bolivar
+020353,Magdalena (Chapacoto),"2,810",0.51,0.04,0.33,0.01,Bolivar
+020354,San Sebastián,"1,057",0.51,0.06,0.31,0.02,Bolivar
+020355,Telimbela,"3,251",0.43,0.05,0.30,0.01,Bolivar
+0204,Echeandía,"12,090",0.36,0.03,0.33,0.01,Bolivar
+020450,Echeandía,"12,090",0.36,0.03,0.33,0.01,Bolivar
+0205,San Miguel,"27,065",0.42,0.02,0.38,0.01,Bolivar
+020550,San Miguel,"12,308",0.29,0.02,0.38,0.01,Bolivar
+020551,Balsapamba,"2,756",0.37,0.04,0.33,0.01,Bolivar
+020552,Bilován,"2,738",0.46,0.05,0.31,0.01,Bolivar
+020553,Regulo de Mora,942,0.57,0.06,0.31,0.02,Bolivar
+020554,San Pablo (San Pablo de Atenas),"5,459",0.60,0.03,0.32,0.01,Bolivar
+020555,Santiago,"1,723",0.62,0.04,0.36,0.02,Bolivar
+020556,San Vicente,"1,139",0.64,0.07,0.32,0.02,Bolivar
+0206,Caluma,"13,101",0.23,0.04,0.32,0.01,Bolivar
+020650,Caluma,"13,101",0.23,0.04,0.32,0.01,Bolivar
+0207,Las Naves,"6,076",0.46,0.04,0.31,0.01,Bolivar
+020750,Las Naves,"6,076",0.46,0.04,0.31,0.01,Bolivar
+0301,Azogues,"69,299",0.26,0.02,0.38,0.01,Cañar
+030150,Azoguez,"37,431",0.15,0.02,0.37,0.01,Cañar
+030151,Cojitambo,"3,689",0.39,0.04,0.28,0.01,Cañar
+030153,Guapán,"8,825",0.38,0.03,0.32,0.01,Cañar
+030154,Javier Loyola (Chuquipata),"6,701",0.32,0.03,0.34,0.01,Cañar
+030155,Luis Cordero,"3,871",0.31,0.04,0.27,0.01,Cañar
+030156,Pindilig,"2,084",0.54,0.06,0.27,0.01,Cañar
+030157,Rivera,"1,530",0.62,0.06,0.30,0.01,Cañar
+030158,San Miguel,"3,551",0.41,0.04,0.30,0.01,Cañar
+030160,Taday,"1,617",0.40,0.05,0.30,0.02,Cañar
+0302,Biblián,"20,779",0.24,0.02,0.35,0.01,Cañar
+030250,Biblián,"13,685",0.19,0.02,0.35,0.01,Cañar
+030251,Nazón (Cab. en Pampa de Dominguez),"2,547",0.40,0.04,0.32,0.02,Cañar
+030252,San Francisco de Sageo,"1,731",0.26,0.03,0.31,0.01,Cañar
+030253,Turupamba,"1,071",0.20,0.04,0.27,0.01,Cañar
+030254,Jerusalen,"1,745",0.38,0.05,0.32,0.02,Cañar
+0303,Cañar,"58,513",0.39,0.03,0.38,0.01,Cañar
+030350,Cañar,"18,140",0.22,0.02,0.37,0.01,Cañar
+030351,Chontamarca,"4,034",0.75,0.05,0.30,0.01,Cañar
+030352,Chorocopte,"3,088",0.21,0.05,0.30,0.01,Cañar
+030353,General Morales (Socarte),"3,325",0.69,0.04,0.29,0.01,Cañar
+030354,Gualleturo,"3,734",0.70,0.04,0.31,0.01,Cañar
+030355,Honorato Vasquez (Tambo Viejo),"6,217",0.21,0.05,0.30,0.01,Cañar
+030356,Ingapirca,"8,322",0.40,0.04,0.30,0.01,Cañar
+030357,Juncal,"2,139",0.45,0.05,0.31,0.02,Cañar
+030358,San Antonio,"1,876",0.51,0.07,0.33,0.02,Cañar
+030361,Zhud,"2,361",0.49,0.05,0.30,0.02,Cañar
+030362,Ventura,"1,288",0.52,0.06,0.30,0.01,Cañar
+030363,Ducur,"3,989",0.50,0.05,0.30,0.01,Cañar
+0304,La Troncal,"54,142",0.32,0.02,0.32,0.01,Cañar
+030450,La Troncal,"42,416",0.30,0.02,0.32,0.01,Cañar
+030451,Manuel J. Calle,"2,761",0.48,0.07,0.30,0.01,Cañar
+030452,Pancho Negro,"8,965",0.35,0.04,0.29,0.01,Cañar
+0305,El Tambo,"9,441",0.36,0.03,0.35,0.01,Cañar
+030550,Tambo,"9,441",0.36,0.03,0.35,0.01,Cañar
+0306,Déleg,"6,093",0.22,0.03,0.30,0.01,Cañar
+030650,Déleg,"4,427",0.22,0.03,0.31,0.01,Cañar
+030651,Solano,"1,666",0.20,0.04,0.28,0.01,Cañar
+0307,Suscal,"4,962",0.57,0.06,0.31,0.01,Cañar
+030750,Suscal,"4,962",0.57,0.06,0.31,0.01,Cañar
+0401,Tulcán,"85,450",0.33,0.01,0.37,0.01,Carchi
+040150,Tulcán,"59,532",0.22,0.01,0.34,0.01,Carchi
+040151,El Carmelo (El Pun),"2,770",0.54,0.05,0.28,0.01,Carchi
+040153,Julio Andrade (Orejuela),"9,615",0.51,0.03,0.32,0.01,Carchi
+040154,Maldonado,"1,669",0.77,0.05,0.28,0.02,Carchi
+040155,Pioter,718,0.46,0.05,0.32,0.02,Carchi
+040156,Tobar Donoso (La Bocana de Camumbi),839,0.80,0.09,0.39,0.06,Carchi
+040157,Tufino,"2,339",0.54,0.06,0.29,0.01,Carchi
+040158,Urbina (Taya),"2,200",0.52,0.04,0.28,0.01,Carchi
+040159,El Chical,"3,403",0.86,0.03,0.38,0.03,Carchi
+040161,Santa Martha de Cuba,"2,365",0.54,0.05,0.27,0.01,Carchi
+0402,Bolívar (De Carchi),"14,346",0.48,0.03,0.32,0.01,Carchi
+040250,Bolívar,"5,206",0.35,0.04,0.32,0.01,Carchi
+040251,García Moreno,"1,406",0.49,0.05,0.29,0.01,Carchi
+040252,Los Andes,"2,260",0.54,0.04,0.32,0.02,Carchi
+040253,Monte Olivo,"1,689",0.55,0.05,0.29,0.02,Carchi
+040254,San Vicente de Pusir,"2,044",0.62,0.04,0.31,0.02,Carchi
+040255,San Rafael,"1,741",0.58,0.05,0.30,0.02,Carchi
+0403,Espejo,"13,306",0.39,0.03,0.34,0.01,Carchi
+040350,El Angel,"6,275",0.35,0.03,0.35,0.01,Carchi
+040351,El Goaltal,813,0.51,0.06,0.29,0.02,Carchi
+040352,La Libertad (Alizo),"3,497",0.42,0.03,0.30,0.01,Carchi
+040353,San Isidro,"2,721",0.42,0.05,0.32,0.02,Carchi
+0404,Mira,"12,147",0.48,0.02,0.37,0.02,Carchi
+040450,Mira (Chontahuasi),"5,969",0.30,0.03,0.35,0.01,Carchi
+040451,Concepción,"2,807",0.68,0.04,0.32,0.02,Carchi
+040452,Jijón Y Caamano (Cab. en Rio Blanco),"2,063",0.73,0.04,0.31,0.02,Carchi
+040453,Juan Montalvo (San Ignacio De Quil),"1,308",0.49,0.05,0.29,0.02,Carchi
+0405,Montúfar,"30,477",0.42,0.02,0.35,0.01,Carchi
+040550,San Gabriel,"21,066",0.38,0.02,0.36,0.01,Carchi
+040551,Cristóbal Colón,"2,943",0.48,0.04,0.33,0.01,Carchi
+040552,Chitán de Navarrete,617,0.47,0.06,0.30,0.02,Carchi
+040553,Fernández Salvador,"1,282",0.51,0.06,0.28,0.02,Carchi
+040554,La Paz,"3,429",0.51,0.04,0.31,0.01,Carchi
+040555,Piartal,"1,140",0.57,0.06,0.26,0.01,Carchi
+0406,San Pedro de Huaca,"7,613",0.42,0.03,0.31,0.01,Carchi
+040650,Huaca,"6,241",0.42,0.03,0.32,0.01,Carchi
+040651,Mariscal Sucre,"1,372",0.43,0.06,0.27,0.01,Carchi
+0501,Latacunga,"168,232",0.37,0.01,0.38,0.01,Cotopaxi
+050150,Latacunga,"96,969",0.27,0.01,0.38,0.01,Cotopaxi
+050151,Alaques (Alaquez),"5,481",0.51,0.03,0.29,0.01,Cotopaxi
+050152,Belisario Quevedo (Guanailin),"6,357",0.53,0.02,0.32,0.01,Cotopaxi
+050153,Guaitacama (Guaytacama),"8,861",0.44,0.03,0.32,0.01,Cotopaxi
+050154,joséguango Bajo,"2,854",0.44,0.05,0.29,0.01,Cotopaxi
+050156,Mulaló,"8,093",0.54,0.03,0.28,0.01,Cotopaxi
+050157,11 De Noviembre (Ilinchisi),"1,988",0.44,0.04,0.27,0.01,Cotopaxi
+050158,Poalo,"5,707",0.58,0.03,0.28,0.01,Cotopaxi
+050159,San Juan de Pastocalle,"11,447",0.51,0.02,0.27,0.01,Cotopaxi
+050161,Tanicuchi,"12,803",0.40,0.04,0.30,0.01,Cotopaxi
+050162,Toacaso,"7,672",0.57,0.03,0.30,0.01,Cotopaxi
+0502,La Maná,"42,099",0.47,0.02,0.33,0.01,Cotopaxi
+050250,La Maná,"36,138",0.45,0.02,0.33,0.01,Cotopaxi
+050251,Guasaganda (Cab. en Guasaganda Centro),"3,907",0.64,0.03,0.28,0.01,Cotopaxi
+050252,Pucayacu,"2,054",0.52,0.04,0.30,0.01,Cotopaxi
+0503,Pangua,"21,895",0.60,0.03,0.29,0.01,Cotopaxi
+050350,El Corazón,"6,513",0.59,0.03,0.32,0.01,Cotopaxi
+050351,Moraspungo,"12,358",0.61,0.03,0.28,0.01,Cotopaxi
+050352,Pinllopata,"1,030",0.66,0.05,0.27,0.02,Cotopaxi
+050353,Ramón Campaña,"1,994",0.54,0.06,0.27,0.01,Cotopaxi
+0504,Pujilí,"68,925",0.66,0.01,0.34,0.01,Cotopaxi
+050450,Pujilí,"33,379",0.56,0.02,0.36,0.01,Cotopaxi
+050451,Angamarca,"5,234",0.78,0.03,0.27,0.01,Cotopaxi
+050453,Guangaje,"8,025",0.86,0.02,0.24,0.01,Cotopaxi
+050455,La Victoria,"3,016",0.56,0.04,0.30,0.01,Cotopaxi
+050456,Pilaló,"2,636",0.82,0.03,0.28,0.01,Cotopaxi
+050457,Tingo,"4,043",0.60,0.04,0.27,0.01,Cotopaxi
+050458,Zumbahua,"12,592",0.75,0.03,0.26,0.01,Cotopaxi
+0505,Salcedo,"58,043",0.43,0.02,0.37,0.01,Cotopaxi
+050550,San Miguel,"31,269",0.36,0.02,0.39,0.01,Cotopaxi
+050551,Antonio José Holguín (Santa Lucía),"2,634",0.43,0.06,0.31,0.02,Cotopaxi
+050552,Cusubamba,"7,194",0.67,0.04,0.28,0.01,Cotopaxi
+050553,Mulalillo,"6,373",0.58,0.03,0.31,0.01,Cotopaxi
+050554,Mulliquindil (Santa Ana),"7,202",0.39,0.04,0.30,0.01,Cotopaxi
+050555,Pansaleo,"3,371",0.32,0.04,0.30,0.01,Cotopaxi
+0506,Saquisilí,"25,297",0.54,0.03,0.37,0.01,Cotopaxi
+050650,Saquisilí,"13,381",0.42,0.03,0.38,0.01,Cotopaxi
+050651,Canchagua,"5,455",0.60,0.04,0.29,0.02,Cotopaxi
+050652,Chantilín,"1,035",0.51,0.05,0.34,0.02,Cotopaxi
+050653,Cochapamba,"5,426",0.76,0.04,0.28,0.02,Cotopaxi
+0507,Sigchos,"21,914",0.69,0.02,0.29,0.01,Cotopaxi
+050750,Sigchos,"7,931",0.62,0.03,0.29,0.01,Cotopaxi
+050751,Chugchilán,"7,789",0.83,0.02,0.26,0.01,Cotopaxi
+050752,Isinliví,"3,224",0.67,0.04,0.27,0.01,Cotopaxi
+050753,Las Pampas,"1,943",0.52,0.06,0.26,0.01,Cotopaxi
+050754,Palo Quemado,"1,027",0.59,0.05,0.26,0.02,Cotopaxi
+0601,Riobamba,"222,875",0.28,0.01,0.38,0.01,Chimborazo
+060150,Riobamba,"154,039",0.14,0.01,0.34,0.01,Chimborazo
+060151,Cacha (Cab. en Machangara),"3,160",0.69,0.03,0.28,0.01,Chimborazo
+060152,Calpi,"6,460",0.53,0.03,0.33,0.01,Chimborazo
+060153,Cubijíes,"2,514",0.55,0.03,0.30,0.01,Chimborazo
+060154,Flores,"4,532",0.72,0.02,0.27,0.01,Chimborazo
+060155,Licán,"7,887",0.39,0.03,0.32,0.01,Chimborazo
+060156,Licto,"7,797",0.73,0.02,0.29,0.01,Chimborazo
+060157,Pungala,"5,934",0.76,0.02,0.29,0.01,Chimborazo
+060158,Punín,"5,964",0.69,0.02,0.30,0.01,Chimborazo
+060159,Quimiag,"5,244",0.67,0.03,0.29,0.01,Chimborazo
+060160,San Juan,"7,360",0.62,0.03,0.31,0.01,Chimborazo
+060161,San Luis,"11,984",0.46,0.02,0.33,0.01,Chimborazo
+0602,Alausí,"43,576",0.71,0.01,0.39,0.01,Chimborazo
+060250,Alausí,"9,848",0.44,0.02,0.40,0.01,Chimborazo
+060251,Achupallas,"10,436",0.87,0.02,0.29,0.01,Chimborazo
+060253,Guasuntos,"2,391",0.69,0.02,0.42,0.02,Chimborazo
+060254,Huigra,"2,352",0.64,0.03,0.37,0.02,Chimborazo
+060255,Multitud,"2,084",0.77,0.03,0.31,0.01,Chimborazo
+060256,Pistishi (Nariz del Diablo),345,0.70,0.08,0.26,0.02,Chimborazo
+060257,Pumallacta,905,0.75,0.04,0.34,0.03,Chimborazo
+060258,Sevilla,803,0.71,0.05,0.31,0.02,Chimborazo
+060259,Sibambe,"3,861",0.71,0.02,0.34,0.01,Chimborazo
+060260,Tixán,"10,551",0.83,0.02,0.29,0.01,Chimborazo
+0603,Colta,"44,853",0.68,0.02,0.30,0.01,Chimborazo
+060350,Villa La Unión (Cajabamba),"18,536",0.62,0.02,0.31,0.01,Chimborazo
+060351,Cañi,962,0.78,0.05,0.28,0.01,Chimborazo
+060352,Columbe,"15,827",0.70,0.02,0.28,0.01,Chimborazo
+060353,Juan de Velasco (Pangor),"3,878",0.85,0.02,0.29,0.01,Chimborazo
+060354,Santiago de Quito (Cab. San Antonio de Quito),"5,650",0.68,0.03,0.27,0.01,Chimborazo
+0604,Chambo,"11,803",0.56,0.03,0.32,0.01,Chimborazo
+060450,Chambo,"11,803",0.56,0.03,0.32,0.01,Chimborazo
+0605,Chunchi,"12,589",0.59,0.02,0.36,0.01,Chimborazo
+060550,Chunchi,"7,329",0.52,0.02,0.38,0.01,Chimborazo
+060551,Capzol,892,0.72,0.05,0.28,0.01,Chimborazo
+060552,Compud,878,0.57,0.05,0.30,0.02,Chimborazo
+060553,Gonzol,"1,729",0.73,0.04,0.29,0.02,Chimborazo
+060554,Llagos,"1,761",0.68,0.04,0.30,0.01,Chimborazo
+0606,Guamote,"44,949",0.81,0.01,0.31,0.01,Chimborazo
+060650,Guamote,"24,531",0.78,0.02,0.33,0.01,Chimborazo
+060651,Cebadas,"8,169",0.82,0.02,0.28,0.01,Chimborazo
+060652,Palmira,"12,249",0.88,0.01,0.28,0.01,Chimborazo
+0607,Guano,"42,662",0.58,0.02,0.32,0.01,Chimborazo
+060750,Guano,"16,363",0.48,0.03,0.33,0.01,Chimborazo
+060751,Guanando,341,0.66,0.07,0.29,0.03,Chimborazo
+060752,Ilapo,"1,651",0.78,0.04,0.27,0.01,Chimborazo
+060753,La Providencia,553,0.53,0.07,0.27,0.02,Chimborazo
+060754,San Andrés,"13,463",0.60,0.02,0.31,0.01,Chimborazo
+060755,San Gerardo de Pacaicaguan,"2,433",0.63,0.04,0.29,0.01,Chimborazo
+060756,San Isidro de Patulu,"4,744",0.69,0.02,0.31,0.01,Chimborazo
+060757,San José del Chazo,"1,037",0.78,0.04,0.27,0.01,Chimborazo
+060758,Santa Fe de Galán,"1,673",0.74,0.03,0.28,0.01,Chimborazo
+060759,Valparaiso,404,0.80,0.05,0.30,0.02,Chimborazo
+0608,Pallatanga,"11,492",0.60,0.02,0.37,0.02,Chimborazo
+060850,Pallatanga,"11,492",0.60,0.02,0.37,0.02,Chimborazo
+0609,Penipe,"6,606",0.43,0.04,0.35,0.01,Chimborazo
+060950,Penipe,"1,956",0.30,0.03,0.38,0.02,Chimborazo
+060951,El Altar,"1,265",0.50,0.06,0.29,0.01,Chimborazo
+060952,Matus,991,0.46,0.07,0.26,0.01,Chimborazo
+060953,Puela,622,0.42,0.09,0.32,0.02,Chimborazo
+060954,San Antonio de Bayushig,"1,101",0.45,0.06,0.30,0.02,Chimborazo
+060955,La Candelaria,475,0.56,0.08,0.28,0.02,Chimborazo
+060956,Bilbao,196,0.67,0.08,0.25,0.02,Chimborazo
+0610,Cumanda,"12,905",0.44,0.03,0.34,0.01,Chimborazo
+061050,Cumanda,"12,905",0.44,0.03,0.34,0.01,Chimborazo
+0701,Machala,"243,044",0.16,0.01,0.34,0.01,El Oro
+070150,Machala,"238,869",0.16,0.01,0.34,0.01,El Oro
+070152,El Retiro,"4,175",0.33,0.04,0.27,0.01,El Oro
+0702,Arenillas,"26,281",0.21,0.02,0.31,0.01,El Oro
+070250,Arenillas,"20,768",0.20,0.02,0.31,0.01,El Oro
+070251,Chacras*,"1,533",0.17,0.04,0.27,0.01,El Oro
+070254,Palmales,"3,244",0.36,0.04,0.26,0.01,El Oro
+070255,Carcabón*,736,0.15,0.06,0.26,0.01,El Oro
+0703,Atahualpa,"5,767",0.37,0.04,0.35,0.02,El Oro
+070350,Paccha,"2,263",0.26,0.05,0.37,0.02,El Oro
+070351,Ayapamba,"1,383",0.48,0.08,0.26,0.01,El Oro
+070352,Cordoncillo,989,0.48,0.08,0.32,0.03,El Oro
+070353,Milagro,472,0.43,0.09,0.30,0.03,El Oro
+070354,San José*,365,0.33,0.08,0.31,0.03,El Oro
+070355,San Juan de Cerro Azul*,295,0.29,0.08,0.26,0.02,El Oro
+0704,Balsas,"6,837",0.26,0.03,0.33,0.01,El Oro
+070450,Balsas,"5,606",0.25,0.03,0.33,0.01,El Oro
+070451,Bellamaría (De Balsas),"1,231",0.32,0.05,0.30,0.02,El Oro
+0705,Chilla,"2,479",0.43,0.06,0.28,0.01,El Oro
+070550,Chilla,"2,479",0.43,0.06,0.28,0.01,El Oro
+0706,El Guabo,"49,750",0.30,0.02,0.30,0.01,El Oro
+070650,El Guabo,"29,865",0.28,0.02,0.30,0.01,El Oro
+070651,Barbones (Sucre),"5,676",0.26,0.03,0.27,0.01,El Oro
+070652,La Iberia,"3,709",0.22,0.03,0.28,0.01,El Oro
+070653,Tendales (Cab. en Puerto Tendales),"5,024",0.39,0.04,0.27,0.01,El Oro
+070654,Río Bonito,"5,476",0.47,0.06,0.26,0.01,El Oro
+0707,Huaquillas,"47,950",0.27,0.02,0.30,0.01,El Oro
+070750,Huaquillas,"47,950",0.27,0.02,0.30,0.01,El Oro
+0708,Marcabelí,"5,393",0.33,0.03,0.33,0.01,El Oro
+070850,Marcabelí,"5,141",0.32,0.03,0.33,0.01,El Oro
+070851,El Ingenio,252,0.46,0.09,0.29,0.03,El Oro
+0709,Pasaje,"72,183",0.26,0.02,0.32,0.01,El Oro
+070950,Pasaje,"52,933",0.22,0.02,0.32,0.01,El Oro
+070951,Buenavista,"6,541",0.35,0.03,0.29,0.01,El Oro
+070952,Casacay,"2,404",0.35,0.05,0.26,0.01,El Oro
+070953,La Peaña,"3,586",0.26,0.04,0.28,0.01,El Oro
+070954,Progreso,"3,967",0.47,0.06,0.26,0.01,El Oro
+070955,Uzhcurrumi,916,0.29,0.06,0.26,0.01,El Oro
+070956,Caña Quemada,"1,836",0.30,0.05,0.26,0.01,El Oro
+0710,Piñas,"25,867",0.22,0.02,0.37,0.01,El Oro
+071050,Piñas,"17,293",0.15,0.02,0.36,0.01,El Oro
+071051,Capiro (Cab. en la Capilla de Capiro),"1,870",0.37,0.05,0.29,0.02,El Oro
+071052,La Bocana,"1,365",0.29,0.05,0.28,0.02,El Oro
+071053,Moromoro (Cab. en el Vado),"1,365",0.46,0.06,0.29,0.02,El Oro
+071054,Piedras*,569,0.33,0.09,0.27,0.02,El Oro
+071055,San Roque (Ambrosio Maldonado),867,0.24,0.05,0.33,0.02,El Oro
+071056,Saracay,"2,538",0.35,0.04,0.26,0.01,El Oro
+0711,Portovelo,"12,143",0.17,0.02,0.34,0.02,El Oro
+071150,Portovelo,"9,941",0.16,0.02,0.34,0.01,El Oro
+071151,Curtincapa*,510,0.22,0.06,0.31,0.03,El Oro
+071152,Morales*,667,0.22,0.07,0.32,0.03,El Oro
+071153,Salati*,"1,025",0.26,0.07,0.31,0.02,El Oro
+0712,Santa Rosa,"68,621",0.20,0.02,0.32,0.01,El Oro
+071250,Santa Rosa,"52,742",0.18,0.02,0.32,0.01,El Oro
+071251,Bellavista,"2,835",0.19,0.03,0.31,0.01,El Oro
+071252,Jambelí,"1,718",0.21,0.05,0.27,0.01,El Oro
+071253,La Avanzada,"1,913",0.18,0.04,0.29,0.01,El Oro
+071254,San Antonio,"2,061",0.25,0.05,0.28,0.02,El Oro
+071255,Torata,"1,944",0.31,0.05,0.27,0.01,El Oro
+071256,Victoria,"3,187",0.33,0.05,0.26,0.01,El Oro
+071257,Bellamaría,"2,221",0.29,0.04,0.27,0.01,El Oro
+0713,Zaruma,"23,931",0.25,0.03,0.36,0.01,El Oro
+071350,Zaruma,"10,480",0.15,0.03,0.36,0.01,El Oro
+071351,Abañin,"1,675",0.39,0.07,0.27,0.02,El Oro
+071352,Arcapamba*,995,0.20,0.07,0.34,0.03,El Oro
+071353,Guanazán,"3,036",0.48,0.07,0.30,0.02,El Oro
+071354,Guizhaguiña*,"1,703",0.19,0.06,0.34,0.02,El Oro
+071355,Huertas,"1,995",0.32,0.06,0.32,0.02,El Oro
+071356,Malvas,"1,177",0.25,0.06,0.32,0.02,El Oro
+071357,Muluncay Grande,787,0.36,0.08,0.31,0.03,El Oro
+071358,Sinsao,"1,336",0.26,0.05,0.32,0.02,El Oro
+071359,Salvias*,747,0.24,0.07,0.32,0.03,El Oro
+0714,Las Lajas,"4,765",0.32,0.03,0.29,0.01,El Oro
+071450,La Victoria,"2,606",0.26,0.04,0.29,0.01,El Oro
+071451,La Libertad,799,0.46,0.07,0.27,0.02,El Oro
+071452,El Paraiso,761,0.34,0.06,0.25,0.02,El Oro
+071453,San Isidro*,599,0.36,0.09,0.29,0.03,El Oro
+0801,Esmeraldas,"189,320",0.32,0.01,0.35,0.01,Esmeraldas
+080150,Esmeraldas,"161,825",0.26,0.01,0.34,0.01,Esmeraldas
+080152,Camarones (Cab. en San Vicente),"2,808",0.69,0.03,0.32,0.01,Esmeraldas
+080153,Crnel. Carlos Concha Torres (Cab. en Huele),"2,307",0.84,0.05,0.32,0.02,Esmeraldas
+080154,Chinca,"4,543",0.68,0.03,0.31,0.01,Esmeraldas
+080159,Majua,"2,534",0.70,0.03,0.30,0.01,Esmeraldas
+080163,San Mateo,"5,714",0.59,0.04,0.32,0.01,Esmeraldas
+080165,Tabiazo,"2,643",0.72,0.05,0.32,0.01,Esmeraldas
+080166,Tachina,"3,969",0.56,0.04,0.33,0.01,Esmeraldas
+080168,Vuelta Larga,"2,977",0.50,0.04,0.36,0.01,Esmeraldas
+0802,Eloy Alfaro,"39,546",0.64,0.03,0.37,0.02,Esmeraldas
+080250,Valdéz (Limones),"6,226",0.45,0.10,0.33,0.01,Esmeraldas
+080251,Anchayacu,"2,528",0.77,0.03,0.29,0.01,Esmeraldas
+080252,Atahualpa (Cab. en Camarones),"1,442",0.76,0.07,0.33,0.04,Esmeraldas
+080253,Borbón,"7,679",0.52,0.03,0.36,0.01,Esmeraldas
+080254,La Tola,"2,588",0.56,0.08,0.31,0.01,Esmeraldas
+080255,Luis Vargas Torres (Cab. en Playa de Oro)*,341,0.24,0.11,0.36,0.04,Esmeraldas
+080256,Maldonado,"1,857",0.58,0.06,0.32,0.02,Esmeraldas
+080257,Pampanal de bolívar,"1,118",0.64,0.10,0.33,0.02,Esmeraldas
+080258,San Francisco de Onzole,"1,402",0.85,0.03,0.31,0.01,Esmeraldas
+080259,Santo Domingo de Onzole,"1,878",0.85,0.03,0.33,0.02,Esmeraldas
+080260,Selva Alegre*,"1,166",0.58,0.16,0.35,0.04,Esmeraldas
+080261,Telembi,"5,587",0.92,0.04,0.30,0.02,Esmeraldas
+080262,Colón Eloy del Maria,"1,410",0.65,0.06,0.31,0.02,Esmeraldas
+080263,San josé de Cayapas,"1,513",0.79,0.06,0.31,0.02,Esmeraldas
+080264,Timbire,"1,037",0.63,0.07,0.31,0.01,Esmeraldas
+080265,Santa Lucía de la Peñas,"1,774",0.49,0.09,0.33,0.01,Esmeraldas
+0803,Muisne,"28,441",0.64,0.02,0.35,0.01,Esmeraldas
+080350,Muisne,"8,876",0.46,0.03,0.34,0.01,Esmeraldas
+080351,Bolívar,"1,039",0.67,0.05,0.31,0.02,Esmeraldas
+080352,Daule (de Muisne),"2,153",0.73,0.04,0.31,0.01,Esmeraldas
+080353,Galera,"1,733",0.74,0.05,0.29,0.01,Esmeraldas
+080354,Quingue (Olmedo Perdomo Franco),574,0.66,0.06,0.31,0.02,Esmeraldas
+080355,Salima,"1,117",0.70,0.06,0.32,0.02,Esmeraldas
+080356,San Francisco,"2,790",0.65,0.03,0.31,0.01,Esmeraldas
+080357,San Gregorio,"5,905",0.79,0.03,0.29,0.01,Esmeraldas
+080358,San José De Chamanga (Cab. en Chamanga),"4,254",0.68,0.04,0.34,0.01,Esmeraldas
+0804,Quinindé,"122,451",0.56,0.01,0.34,0.01,Esmeraldas
+080450,Rosa Zárate (Quinindé),"54,405",0.47,0.02,0.35,0.01,Esmeraldas
+080451,Cube,"7,557",0.74,0.03,0.29,0.01,Esmeraldas
+080452,Chura (Chancama) (Cab. En El Yerbero),"4,733",0.70,0.04,0.28,0.01,Esmeraldas
+080453,Malimpia,"17,750",0.67,0.02,0.29,0.01,Esmeraldas
+080454,Viche,"5,269",0.55,0.05,0.32,0.01,Esmeraldas
+080455,La Unión (De Quinindé),"32,737",0.58,0.02,0.32,0.01,Esmeraldas
+0805,San Lorenzo,"42,251",0.49,0.03,0.37,0.01,Esmeraldas
+080550,San Lorenzo,"25,059",0.40,0.03,0.35,0.01,Esmeraldas
+080551,Alto Tambo (Cab. en Guadual),"1,854",0.74,0.08,0.36,0.06,Esmeraldas
+080552,Ancón (Pichangal) (Cab. en Palma Real),"1,814",0.58,0.11,0.32,0.02,Esmeraldas
+080553,Calderón,628,0.55,0.05,0.28,0.02,Esmeraldas
+080554,Carondelet,"1,716",0.62,0.06,0.32,0.02,Esmeraldas
+080555,5 de Junio (Cab. en Uimbi)*,415,0.22,0.06,0.37,0.03,Esmeraldas
+080556,Concepción,"2,346",0.63,0.04,0.36,0.02,Esmeraldas
+080557,Mataje (Cab. en Santander),"1,457",0.75,0.06,0.31,0.02,Esmeraldas
+080558,San Javier de Cachavi (Cab. en San Javier),664,0.73,0.06,0.29,0.02,Esmeraldas
+080559,Santa Rita,"1,613",0.42,0.09,0.41,0.05,Esmeraldas
+080560,Tambillo,"1,743",0.61,0.06,0.29,0.02,Esmeraldas
+080561,Tululbi (Cab. en Ricaurte),"2,240",0.61,0.04,0.46,0.04,Esmeraldas
+080562,Urbina,702,0.56,0.07,0.46,0.04,Esmeraldas
+0806,Atacames,"41,267",0.49,0.02,0.36,0.01,Esmeraldas
+080650,Atacames,"16,719",0.45,0.02,0.35,0.01,Esmeraldas
+080651,La Unión (de Atacames),"2,523",0.80,0.04,0.31,0.01,Esmeraldas
+080652,Súa (Cab. en la Bocana),"3,439",0.55,0.03,0.32,0.01,Esmeraldas
+080653,Tonchigue,"7,992",0.54,0.03,0.32,0.01,Esmeraldas
+080654,Tonsupa,"10,594",0.44,0.02,0.39,0.01,Esmeraldas
+0807,Rioverde,"26,832",0.65,0.02,0.33,0.01,Esmeraldas
+080750,Río Verde,"4,963",0.55,0.03,0.32,0.01,Esmeraldas
+080751,Chontaduro,"3,212",0.76,0.03,0.33,0.02,Esmeraldas
+080752,Chumunde,"3,502",0.78,0.03,0.30,0.01,Esmeraldas
+080753,Lagarto,"5,674",0.68,0.03,0.30,0.01,Esmeraldas
+080754,Montalvo (Cab. en Horqueta),"4,003",0.63,0.04,0.34,0.01,Esmeraldas
+080755,Rocafuerte,"5,478",0.59,0.04,0.34,0.01,Esmeraldas
+0901,Guayaquil,"2,333,797",0.14,0.01,0.38,0.02,Guayas
+090150,Guayaquil,"2,274,350",0.14,0.01,0.39,0.02,Guayas
+090152,Juan Gómez Rendón (Progreso),"11,895",0.20,0.03,0.26,0.01,Guayas
+090153,Morro,"4,974",0.26,0.05,0.26,0.01,Guayas
+090156,Posorja,"24,041",0.21,0.02,0.26,0.01,Guayas
+090157,Puná,"6,716",0.26,0.05,0.26,0.01,Guayas
+090158,Tenguel,"11,821",0.19,0.02,0.27,0.01,Guayas
+0902,Alfredo Baquerizo Moreno,"25,017",0.36,0.02,0.27,0.01,Guayas
+090250,Alfredo Baquerizo Moreno (Jujan),"25,017",0.36,0.02,0.27,0.01,Guayas
+0903,Balao,"20,344",0.34,0.02,0.26,0.01,Guayas
+090350,Balao,"20,344",0.34,0.02,0.26,0.01,Guayas
+0904,Balzar,"53,317",0.42,0.02,0.29,0.01,Guayas
+090450,Balzar,"53,317",0.42,0.02,0.29,0.01,Guayas
+0905,Colimes,"23,204",0.45,0.03,0.27,0.01,Guayas
+090550,Colimes,"17,148",0.44,0.03,0.27,0.01,Guayas
+090551,San Jacinto,"6,056",0.48,0.05,0.26,0.01,Guayas
+0906,Daule,"119,897",0.25,0.01,0.45,0.02,Guayas
+090650,Daule,"87,134",0.22,0.01,0.46,0.02,Guayas
+090652,Juan Bautista Aguirre (Los Tintos),"5,502",0.31,0.04,0.25,0.01,Guayas
+090653,Laurel,"9,854",0.36,0.04,0.25,0.01,Guayas
+090654,Limonal,"8,757",0.35,0.03,0.25,0.01,Guayas
+090656,Los Lojas (Enrique Baquerizo Moreno),"8,650",0.26,0.03,0.25,0.01,Guayas
+0907,Duran,"235,164",0.09,0.01,0.31,0.01,Guayas
+090750,Eloy Alfaro (Duran),"235,164",0.09,0.01,0.31,0.01,Guayas
+0908,El Empalme,"73,787",0.38,0.02,0.27,0.01,Guayas
+090850,Velasco Ibarra (El Empalme),"47,214",0.35,0.02,0.28,0.01,Guayas
+090851,Guayas (Pueblo Nuevo),"17,418",0.44,0.03,0.26,0.01,Guayas
+090852,El Rosario,"9,155",0.41,0.03,0.26,0.01,Guayas
+0909,El Triunfo,"44,644",0.24,0.03,0.29,0.01,Guayas
+090950,El Triunfo,"44,644",0.24,0.03,0.29,0.01,Guayas
+0910,Milagro,"166,219",0.20,0.01,0.31,0.01,Guayas
+091050,Milagro,"144,640",0.20,0.01,0.31,0.01,Guayas
+091051,Chobo,"5,421",0.26,0.04,0.31,0.02,Guayas
+091053,Mariscal Sucre (Huaques),"5,360",0.23,0.03,0.27,0.01,Guayas
+091054,Roberto Astudillo (Cab. en Cruce de Venecia),"10,798",0.23,0.03,0.27,0.01,Guayas
+0911,Naranjal,"67,817",0.29,0.03,0.28,0.01,Guayas
+091150,Naranjal,"39,498",0.25,0.03,0.29,0.01,Guayas
+091151,Jesús María,"6,409",0.30,0.03,0.27,0.01,Guayas
+091152,San Carlos,"6,490",0.31,0.03,0.26,0.01,Guayas
+091153,Santa Rosa de Flandes,"5,389",0.39,0.04,0.27,0.01,Guayas
+091154,Taura,"10,031",0.40,0.03,0.26,0.01,Guayas
+0912,Naranjito,"37,073",0.27,0.02,0.28,0.01,Guayas
+091250,Naranjito,"37,073",0.27,0.02,0.28,0.01,Guayas
+0913,Palestina,"16,043",0.34,0.02,0.27,0.01,Guayas
+091350,Palestina,"16,043",0.34,0.02,0.27,0.01,Guayas
+0914,Pedro Carbo,"43,230",0.38,0.02,0.27,0.01,Guayas
+091450,Pedro Carbo,"31,201",0.36,0.02,0.27,0.01,Guayas
+091451,Valle de la Virgen,"5,168",0.49,0.05,0.25,0.01,Guayas
+091452,Sabanilla,"6,861",0.40,0.04,0.25,0.01,Guayas
+0916,Samborondón,"67,167",0.17,0.01,0.49,0.02,Guayas
+091650,Samborondón,"51,225",0.13,0.01,0.46,0.02,Guayas
+091651,Tarifa,"15,942",0.30,0.02,0.26,0.01,Guayas
+0918,Santa Lucia,"38,812",0.40,0.03,0.26,0.01,Guayas
+091850,Santa Lucía,"38,812",0.40,0.03,0.26,0.01,Guayas
+0919,Urbina Jado,"56,998",0.44,0.03,0.26,0.01,Guayas
+091950,El Salitre (Las Ramas),"27,938",0.42,0.03,0.26,0.01,Guayas
+091951,General Vernaza (Dos Esteros),"9,431",0.42,0.04,0.25,0.01,Guayas
+091952,La Victoria (Nanza),"6,409",0.47,0.05,0.26,0.01,Guayas
+091953,Junquillal,"13,220",0.50,0.04,0.25,0.01,Guayas
+0920,San Jacinto de Yaguachi,"60,529",0.34,0.02,0.28,0.01,Guayas
+092050,Yaguachi Nuevo (San Jacinto de Yaguachi),"26,499",0.31,0.02,0.28,0.01,Guayas
+092053,Gral. Pedro J. Montero (Boliche),"8,173",0.34,0.03,0.26,0.01,Guayas
+092055,Yaguachi Viejo (Cone),"11,895",0.39,0.03,0.26,0.01,Guayas
+092056,Virgen de Fátima,"13,962",0.34,0.03,0.28,0.01,Guayas
+0921,Playas,"41,605",0.21,0.02,0.29,0.01,Guayas
+092150,General Villamil (Playas),"41,605",0.21,0.02,0.29,0.01,Guayas
+0922,Simón Bolívar,"25,270",0.41,0.03,0.26,0.01,Guayas
+092250,Simón Bolívar,"14,483",0.38,0.03,0.27,0.01,Guayas
+092251,Crnel. Lorenzo de Garaicoa (Pedregal),"10,787",0.45,0.04,0.26,0.01,Guayas
+0923,Coronel Marcelino Maridueña,"11,959",0.17,0.02,0.30,0.01,Guayas
+092350,Crnel. Marcelino Mariduena,"11,959",0.17,0.02,0.30,0.01,Guayas
+0924,Lomas de Sargentillo,"18,323",0.31,0.03,0.26,0.01,Guayas
+092450,Lomas de Sargentillo,"18,323",0.31,0.03,0.26,0.01,Guayas
+0925,Nobol (Piedrahita),"19,572",0.31,0.02,0.27,0.01,Guayas
+092550,Narcisa de Jesús,"19,572",0.31,0.02,0.27,0.01,Guayas
+0927,General Antonio Elizalde (Bucay),"10,620",0.20,0.03,0.30,0.01,Guayas
+092750,General Antonio Elizalde (Bucay),"10,620",0.20,0.03,0.30,0.01,Guayas
+0928,Isidro Ayora,"10,772",0.42,0.03,0.26,0.01,Guayas
+092850,Isidro Ayora (Soledad),"10,772",0.42,0.03,0.26,0.01,Guayas
+1001,Ibarra,"180,395",0.23,0.01,0.37,0.01,Imbabura
+100150,Ibarra,"139,238",0.16,0.01,0.36,0.01,Imbabura
+100151,Ambuquí,"5,464",0.50,0.04,0.33,0.01,Imbabura
+100152,Angochagua,"3,263",0.61,0.03,0.29,0.01,Imbabura
+100153,Carolina,"2,716",0.71,0.03,0.30,0.01,Imbabura
+100154,La Esperanza,"7,119",0.45,0.05,0.31,0.01,Imbabura
+100155,Lita,"3,337",0.75,0.03,0.32,0.01,Imbabura
+100156,Salinas,"1,741",0.35,0.06,0.30,0.01,Imbabura
+100157,San Antonio,"17,517",0.30,0.02,0.33,0.01,Imbabura
+1002,Antonio Ante,"43,484",0.35,0.01,0.36,0.01,Imbabura
+100250,Atuntaqui,"23,280",0.27,0.01,0.36,0.01,Imbabura
+100251,Imbaya (San Luis de Cobuendo),"1,276",0.40,0.05,0.36,0.02,Imbabura
+100252,San Francisco de Natabuela,"5,649",0.31,0.03,0.31,0.01,Imbabura
+100253,San José de Chaltura,"3,140",0.37,0.03,0.33,0.01,Imbabura
+100254,San Roque,"10,139",0.55,0.02,0.32,0.01,Imbabura
+1003,Cotacachi,"39,861",0.57,0.01,0.40,0.01,Imbabura
+100350,Cotacachi,"17,063",0.42,0.02,0.40,0.01,Imbabura
+100351,Apuela,"1,821",0.75,0.04,0.30,0.02,Imbabura
+100352,Garcia Moreno (Llurimagua),"5,030",0.72,0.04,0.29,0.01,Imbabura
+100353,Imantag,"4,905",0.78,0.03,0.29,0.01,Imbabura
+100354,Peñaherrera,"1,625",0.68,0.04,0.31,0.02,Imbabura
+100355,Plaza Gutiérrez (Calvario),496,0.63,0.06,0.32,0.02,Imbabura
+100356,Quiroga,"6,445",0.53,0.02,0.37,0.01,Imbabura
+100357,6 de Julio de Cuellaje (Cab. en Cuellaje),"1,778",0.75,0.04,0.31,0.02,Imbabura
+100358,Vacas Galindo (El Churo) (Cab. en San Miguel Alto),698,0.84,0.04,0.28,0.02,Imbabura
+1004,Otavalo,"104,669",0.44,0.01,0.37,0.01,Imbabura
+100450,Otavalo,"52,596",0.33,0.01,0.37,0.01,Imbabura
+100451,Dr. Miguel Egas Cabezas (Peguche),"4,877",0.47,0.03,0.32,0.01,Imbabura
+100452,Eugenio Espejo (Calpaqui),"7,357",0.60,0.02,0.31,0.01,Imbabura
+100453,González Suárez,"5,626",0.50,0.04,0.32,0.01,Imbabura
+100454,Pataqui,269,0.67,0.08,0.27,0.03,Imbabura
+100455,San José de Quichinche,"8,476",0.68,0.02,0.31,0.01,Imbabura
+100456,San Juan de Ilumán,"8,573",0.52,0.03,0.29,0.01,Imbabura
+100457,San Pablo,"9,874",0.46,0.02,0.34,0.01,Imbabura
+100458,San Rafael,"5,421",0.53,0.03,0.28,0.01,Imbabura
+100459,Selva Alegre (Cab. en San Miguel de Pamplona),"1,600",0.72,0.04,0.28,0.01,Imbabura
+1005,Pimampiro,"12,963",0.51,0.02,0.34,0.01,Imbabura
+100550,Pimampiro,"9,070",0.44,0.02,0.34,0.01,Imbabura
+100551,Chuga,"1,080",0.79,0.05,0.25,0.01,Imbabura
+100552,Mariano Acosta,"1,544",0.63,0.05,0.29,0.01,Imbabura
+100553,San Francisco de Sigsipamba,"1,269",0.64,0.04,0.27,0.01,Imbabura
+1006,San Miguel de Urcuquí,"15,629",0.58,0.02,0.32,0.01,Imbabura
+100650,Urcuquí,"5,187",0.51,0.02,0.34,0.01,Imbabura
+100651,Cahuasquí,"1,800",0.59,0.05,0.29,0.01,Imbabura
+100652,La Merced de Buenos Aires,"1,893",0.75,0.04,0.30,0.02,Imbabura
+100653,Pablo Arenas,"2,110",0.55,0.04,0.29,0.01,Imbabura
+100654,San Blas,"3,015",0.65,0.04,0.31,0.02,Imbabura
+100655,Tumbabiro,"1,624",0.54,0.04,0.29,0.01,Imbabura
+1101,Loja,"211,527",0.19,0.01,0.37,0.01,Loja
+110150,Loja,"177,620",0.15,0.01,0.36,0.01,Loja
+110151,Chantaco,"1,177",0.52,0.04,0.28,0.02,Loja
+110152,Chuquiribamba,"2,460",0.52,0.04,0.28,0.01,Loja
+110153,El Cisne,"1,615",0.33,0.04,0.29,0.02,Loja
+110154,Gualel,"2,060",0.59,0.04,0.27,0.01,Loja
+110155,Jimbilla,"1,114",0.49,0.06,0.28,0.02,Loja
+110156,Malacatos (Valladolid),"7,049",0.35,0.03,0.32,0.01,Loja
+110157,San Lucas,"4,668",0.59,0.03,0.30,0.01,Loja
+110158,San Pedro de Vilcabamba,"1,282",0.22,0.04,0.29,0.02,Loja
+110159,Santiago,"1,373",0.57,0.04,0.28,0.01,Loja
+110160,Taquil (Miguel Riofrio),"3,663",0.59,0.03,0.28,0.01,Loja
+110161,Vilcabamba (Victoria),"4,642",0.26,0.05,0.31,0.01,Loja
+110162,Yangana (Arsenio Castillo),"1,420",0.27,0.04,0.29,0.02,Loja
+110163,Quinara,"1,384",0.35,0.06,0.27,0.01,Loja
+1102,Calvas,"27,736",0.40,0.02,0.35,0.01,Loja
+110250,Cariamanga,"20,852",0.31,0.02,0.34,0.01,Loja
+110251,Colaisaca,"1,854",0.69,0.03,0.27,0.01,Loja
+110252,El Lucero,"2,025",0.59,0.04,0.28,0.02,Loja
+110253,Utuana,"1,337",0.66,0.04,0.27,0.01,Loja
+110254,Sanguillín,"1,668",0.71,0.04,0.26,0.01,Loja
+1103,Catamayo,"30,419",0.38,0.03,0.31,0.01,Loja
+110350,Catamayo (La Toma),"23,237",0.37,0.04,0.31,0.01,Loja
+110351,El Tambo,"4,630",0.50,0.04,0.27,0.01,Loja
+110352,Guayquichuma,383,0.44,0.08,0.27,0.02,Loja
+110353,San Pedro de la Bendita*,"1,589",0.18,0.05,0.28,0.02,Loja
+110354,Zambi,580,0.50,0.06,0.29,0.02,Loja
+1104,Celica,"14,041",0.36,0.03,0.32,0.01,Loja
+110450,Celica,"6,916",0.30,0.03,0.33,0.01,Loja
+110451,Cruzpamba (Cab. en Carlos Bustamante),"1,094",0.41,0.05,0.27,0.02,Loja
+110455,Pozul (San Juan de Pozul),"3,035",0.42,0.04,0.30,0.02,Loja
+110456,Sabanilla,"2,423",0.41,0.05,0.30,0.02,Loja
+110457,Tnte. Maximiliano Rodríguez Loaiza,573,0.59,0.06,0.30,0.02,Loja
+1105,Chaguarpamba,"7,020",0.49,0.03,0.29,0.01,Loja
+110550,Chaguarpamba,"3,438",0.46,0.03,0.28,0.01,Loja
+110551,Buenavista,"1,214",0.44,0.04,0.31,0.02,Loja
+110552,El Rosario,495,0.50,0.06,0.27,0.02,Loja
+110553,Santa Rufina,"1,210",0.57,0.04,0.28,0.02,Loja
+110554,Amarillos,663,0.58,0.06,0.28,0.02,Loja
+1106,Espíndola,"14,773",0.60,0.02,0.29,0.01,Loja
+110650,Amaluza,"3,412",0.43,0.03,0.29,0.01,Loja
+110651,Bellavista,"2,335",0.69,0.03,0.27,0.01,Loja
+110652,Jimbura,"2,316",0.70,0.03,0.28,0.02,Loja
+110653,Santa Teresita,"1,756",0.67,0.04,0.27,0.01,Loja
+110654,27 de Abril (Cab. en la Naranja),"2,086",0.60,0.05,0.25,0.01,Loja
+110655,El Ingenio,"1,871",0.61,0.04,0.28,0.02,Loja
+110656,El Airo,997,0.58,0.06,0.27,0.02,Loja
+1107,Gonzanama,"12,692",0.44,0.02,0.31,0.01,Loja
+110750,Gonzanamá,"2,507",0.24,0.02,0.32,0.01,Loja
+110751,Changaimina (La Libertad),"2,748",0.42,0.03,0.29,0.01,Loja
+110753,Nambacola,"4,515",0.54,0.03,0.27,0.01,Loja
+110754,Purunuma (Eguiguren),756,0.53,0.05,0.27,0.02,Loja
+110756,Sacapalca,"2,166",0.47,0.05,0.29,0.01,Loja
+1108,Macará,"18,569",0.34,0.02,0.35,0.01,Loja
+110850,Macará,"15,294",0.30,0.02,0.34,0.01,Loja
+110851,Larama,"1,080",0.67,0.04,0.27,0.02,Loja
+110852,La Victoria,"1,557",0.52,0.05,0.28,0.02,Loja
+110853,Sabiango (La Capilla),638,0.24,0.06,0.27,0.02,Loja
+1109,Paltas,"23,733",0.46,0.01,0.33,0.01,Loja
+110950,Catacocha,"12,134",0.37,0.02,0.34,0.01,Loja
+110951,Cangonamá,"1,271",0.52,0.05,0.27,0.02,Loja
+110952,Guachanamá,"2,602",0.61,0.03,0.27,0.01,Loja
+110954,Lauro Guerrero,"1,825",0.52,0.05,0.30,0.02,Loja
+110956,Orianga,"1,763",0.58,0.04,0.31,0.02,Loja
+110957,San Antonio,"1,091",0.57,0.05,0.29,0.02,Loja
+110958,Casanga,"1,805",0.52,0.04,0.29,0.01,Loja
+110959,Yamana,"1,242",0.49,0.05,0.28,0.02,Loja
+1110,Puyango,"15,427",0.41,0.02,0.31,0.01,Loja
+111050,Alamor,"8,222",0.36,0.02,0.30,0.01,Loja
+111051,Ciano,"1,426",0.39,0.04,0.27,0.01,Loja
+111052,El Arenal,981,0.52,0.06,0.26,0.02,Loja
+111053,El Limo (Mariana de Jesús),"2,358",0.58,0.04,0.29,0.02,Loja
+111054,Mercadillo,"1,174",0.31,0.06,0.32,0.03,Loja
+111055,Vicentino,"1,266",0.43,0.06,0.29,0.02,Loja
+1111,Saraguro,"30,135",0.47,0.01,0.31,0.01,Loja
+111150,Saraguro,"9,018",0.31,0.02,0.32,0.01,Loja
+111151,El Paraíso de Celén,"2,757",0.65,0.03,0.31,0.02,Loja
+111152,El Tablón,917,0.66,0.05,0.26,0.01,Loja
+111153,Lluzhapa,"1,705",0.60,0.04,0.27,0.02,Loja
+111154,Manu,"2,668",0.47,0.03,0.28,0.01,Loja
+111155,San Antonio de Qumbe (Cumbe),"1,144",0.59,0.04,0.27,0.01,Loja
+111156,San Pablo de Tenta,"3,671",0.55,0.03,0.27,0.01,Loja
+111157,San Sebastián de Yulug,972,0.41,0.06,0.27,0.01,Loja
+111158,Selva Alegre,"1,927",0.63,0.03,0.29,0.01,Loja
+111159,Urdaneta (Paquishapa),"3,764",0.46,0.04,0.29,0.01,Loja
+111160,Sumaypamba,"1,592",0.40,0.05,0.29,0.02,Loja
+1112,Sozoranga,"7,459",0.53,0.02,0.29,0.01,Loja
+111250,Sozoranga,"3,755",0.54,0.03,0.30,0.01,Loja
+111251,Nueva Fátima,903,0.53,0.06,0.26,0.01,Loja
+111252,Tacamoros,"2,801",0.50,0.05,0.29,0.01,Loja
+1113,Zapotillo,"12,230",0.48,0.02,0.31,0.01,Loja
+111350,Zapotillo,"4,192",0.30,0.03,0.31,0.01,Loja
+111351,Cazaderos (Cab. en Mangaurco),717,0.53,0.06,0.27,0.02,Loja
+111352,Garzareal,"1,774",0.54,0.05,0.26,0.01,Loja
+111353,Limones,"1,406",0.47,0.06,0.26,0.01,Loja
+111354,Paletillas,"2,604",0.61,0.04,0.29,0.01,Loja
+111355,Bolaspamba,"1,086",0.68,0.05,0.28,0.02,Loja
+111356,Cazaderos,451,0.59,0.06,0.29,0.02,Loja
+1114,Pindal,"8,644",0.48,0.03,0.32,0.01,Loja
+111450,Pindal,"3,193",0.32,0.03,0.33,0.02,Loja
+111451,Chaquinal,"1,087",0.55,0.05,0.27,0.02,Loja
+111452,12 de Diciembre  (Cab. en Achiotes),"1,885",0.61,0.04,0.30,0.02,Loja
+111453,Milagros,"2,479",0.55,0.05,0.26,0.01,Loja
+1115,Quilanga,"4,328",0.43,0.03,0.29,0.01,Loja
+111550,Quilanga,"2,716",0.39,0.04,0.29,0.01,Loja
+111551,Fundochamba*,353,0.30,0.08,0.25,0.02,Loja
+111552,San Antonio de las Aradas (Cab en las Aradas),"1,259",0.55,0.05,0.29,0.02,Loja
+1116,Olmedo,"4,863",0.57,0.02,0.29,0.01,Loja
+111650,Olmedo (Santa Barbara),"4,195",0.57,0.02,0.30,0.01,Loja
+111651,La Tingue,668,0.57,0.06,0.26,0.02,Loja
+1201,Babahoyo,"152,498",0.30,0.01,0.35,0.01,Los Rios
+120150,Babahoyo,"95,792",0.25,0.01,0.36,0.01,Los Rios
+120152,Caracol,"5,111",0.46,0.03,0.28,0.01,Los Rios
+120153,Febres Cordero (Las Juntas) (Cab en Mata de Cacao),"17,917",0.37,0.02,0.28,0.01,Los Rios
+120154,Pimocha,"20,994",0.41,0.02,0.28,0.01,Los Rios
+120155,La Unión (de Babahoyo),"12,684",0.34,0.02,0.28,0.01,Los Rios
+1202,Baba,"39,550",0.45,0.02,0.29,0.01,Los Rios
+120250,Baba,"18,766",0.42,0.02,0.29,0.01,Los Rios
+120251,Guare,"11,411",0.51,0.02,0.28,0.01,Los Rios
+120252,Isla de Bejucal,"9,373",0.43,0.02,0.30,0.01,Los Rios
+1203,Montalvo,"23,990",0.29,0.01,0.31,0.01,Los Rios
+120350,Montalvo,"21,453",0.29,0.01,0.31,0.01,Los Rios
+120351,La Esmeralda,"2,537",0.33,0.03,0.30,0.01,Los Rios
+1204,Puebloviejo,"36,410",0.39,0.02,0.29,0.01,Los Rios
+120450,Puebloviejo,"13,356",0.40,0.02,0.30,0.01,Los Rios
+120451,Puerto Pechiche,"4,653",0.53,0.03,0.29,0.01,Los Rios
+120452,San Juan,"18,401",0.35,0.02,0.29,0.01,Los Rios
+1205,Quevedo,"172,296",0.31,0.01,0.34,0.01,Los Rios
+120550,Quevedo,"157,475",0.30,0.01,0.34,0.01,Los Rios
+120553,San Carlos,"9,994",0.38,0.02,0.31,0.01,Los Rios
+120555,La Esperanza,"4,827",0.38,0.03,0.29,0.01,Los Rios
+1206,Urdaneta,"29,182",0.36,0.01,0.30,0.01,Los Rios
+120650,Catarama,"8,575",0.35,0.02,0.30,0.01,Los Rios
+120651,Ricaurte,"20,607",0.37,0.02,0.31,0.01,Los Rios
+1207,Ventanas,"66,301",0.37,0.01,0.31,0.01,Los Rios
+120750,Ventanas,"45,202",0.34,0.02,0.32,0.01,Los Rios
+120752,Zapotal,"15,846",0.43,0.02,0.28,0.01,Los Rios
+120753,Chacarita,"2,477",0.41,0.03,0.29,0.01,Los Rios
+120754,Los Ángeles,"2,776",0.44,0.04,0.29,0.01,Los Rios
+1208,Vinces,"71,390",0.41,0.01,0.32,0.01,Los Rios
+120850,Vinces,"55,119",0.41,0.01,0.33,0.01,Los Rios
+120851,Antonio Sotomayor (Cab. en Playas de Vinces),"16,271",0.42,0.02,0.28,0.01,Los Rios
+1209,Palenque,"22,222",0.53,0.02,0.30,0.01,Los Rios
+120950,Palenque,"22,222",0.53,0.02,0.30,0.01,Los Rios
+1210,Buena Fé,"62,638",0.41,0.02,0.30,0.01,Los Rios
+121050,San Jacinto de Buena Fé,"50,449",0.41,0.02,0.29,0.01,Los Rios
+121051,Patricia Pilar,"12,189",0.42,0.03,0.31,0.01,Los Rios
+1211,Valencia,"42,195",0.45,0.02,0.30,0.01,Los Rios
+121150,Valencia,"42,195",0.45,0.02,0.30,0.01,Los Rios
+1212,Mocache,"38,221",0.44,0.01,0.29,0.01,Los Rios
+121250,Mocache,"38,221",0.44,0.01,0.29,0.01,Los Rios
+1213,Quinsaloma,"16,437",0.44,0.02,0.30,0.01,Los Rios
+121350,Quinsaloma,"16,437",0.44,0.02,0.30,0.01,Los Rios
+1301,Portoviejo,"278,492",0.19,0.01,0.35,0.01,Manabí
+130150,Portoviejo,"222,034",0.15,0.01,0.35,0.01,Manabí
+130151,Abdón Calderón (San Francisco),"14,159",0.33,0.03,0.29,0.01,Manabí
+130152,Alhajuela (Bajo Grande),"3,748",0.35,0.03,0.27,0.01,Manabí
+130153,Crucita,"14,044",0.31,0.03,0.27,0.01,Manabí
+130154,Pueblo Nuevo,"3,169",0.38,0.04,0.28,0.01,Manabí
+130155,Riochico (Rio Chico),"11,313",0.31,0.03,0.28,0.01,Manabí
+130156,San Plácido,"7,673",0.36,0.03,0.27,0.01,Manabí
+130157,Chirijos,"2,352",0.48,0.04,0.27,0.01,Manabí
+1302,Bolivar (De Manabí),"39,779",0.48,0.02,0.31,0.01,Manabí
+130250,Calceta,"33,255",0.45,0.02,0.31,0.01,Manabí
+130251,Membrillo,"3,536",0.66,0.04,0.26,0.01,Manabí
+130252,Quiroga,"2,988",0.59,0.04,0.28,0.01,Manabí
+1303,Chone,"125,981",0.36,0.01,0.33,0.01,Manabí
+130350,Chone,"74,588",0.28,0.01,0.34,0.01,Manabí
+130351,Boyacá,"4,499",0.52,0.03,0.28,0.01,Manabí
+130352,Canuto,"10,344",0.46,0.03,0.30,0.01,Manabí
+130353,Convento,"6,558",0.49,0.03,0.27,0.01,Manabí
+130354,Chibunga,"6,286",0.49,0.03,0.28,0.01,Manabí
+130355,Eloy Alfaro,"7,815",0.50,0.02,0.28,0.01,Manabí
+130356,Ricaurte,"7,878",0.48,0.02,0.28,0.01,Manabí
+130357,San Antonio,"8,013",0.43,0.03,0.28,0.01,Manabí
+1304,El Carmen,"88,730",0.35,0.03,0.31,0.01,Manabí
+130450,El Carmen,"77,455",0.33,0.03,0.31,0.01,Manabí
+130451,Wilfrido Loor Moreira (Maicito),"4,586",0.51,0.03,0.28,0.01,Manabí
+130452,San Pedro de Suma,"6,689",0.51,0.03,0.28,0.01,Manabí
+1305,Flavio Alfaro,"24,941",0.51,0.02,0.30,0.01,Manabí
+130550,Flavio Alfaro,"18,482",0.48,0.03,0.31,0.01,Manabí
+130551,San Francisco de Novillo (Cab en Novillo),"2,770",0.61,0.04,0.26,0.01,Manabí
+130552,Zapallo,"3,689",0.58,0.04,0.27,0.01,Manabí
+1306,Jipijapa,"70,781",0.38,0.02,0.31,0.01,Manabí
+130650,Jipijapa,"48,849",0.31,0.02,0.31,0.01,Manabí
+130651,América,"3,043",0.56,0.03,0.26,0.01,Manabí
+130652,El Anegado (Cab. en Eloy Alfaro),"6,849",0.53,0.03,0.26,0.01,Manabí
+130653,Julcuy,"2,175",0.58,0.04,0.26,0.01,Manabí
+130654,La Unión (De Jipijapa),"1,927",0.57,0.05,0.25,0.01,Manabí
+130656,Membrillal,"1,005",0.56,0.07,0.25,0.01,Manabí
+130657,Pedro Pablo Gómez,"3,553",0.56,0.03,0.27,0.01,Manabí
+130658,Puerto de Cayo,"3,380",0.45,0.04,0.26,0.01,Manabí
+1307,Junín,"18,906",0.51,0.02,0.31,0.01,Manabí
+130750,Junín,"18,906",0.51,0.02,0.31,0.01,Manabí
+1308,Manta,"225,007",0.18,0.01,0.34,0.01,Manabí
+130850,Manta,"219,679",0.18,0.01,0.34,0.01,Manabí
+130851,San Lorenzo,"2,628",0.44,0.04,0.27,0.01,Manabí
+130852,Santa Marianita (Boca de Pacoche),"2,700",0.39,0.05,0.27,0.01,Manabí
+1309,Montecristi,"70,232",0.33,0.02,0.29,0.01,Manabí
+130950,Montecristi,"67,780",0.33,0.03,0.29,0.01,Manabí
+130952,La Pila,"2,452",0.41,0.05,0.24,0.01,Manabí
+1310,Paján,"36,710",0.58,0.02,0.29,0.01,Manabí
+131050,Paján,"12,245",0.46,0.02,0.31,0.01,Manabí
+131051,Campozano (La Palma de Paján),"8,449",0.66,0.03,0.27,0.01,Manabí
+131052,Cascol,"6,967",0.57,0.03,0.27,0.01,Manabí
+131053,Guale,"3,922",0.66,0.03,0.26,0.01,Manabí
+131054,Lascano,"5,127",0.68,0.03,0.28,0.01,Manabí
+1311,Pichincha,"30,081",0.63,0.02,0.28,0.01,Manabí
+131150,Pichincha,"17,372",0.60,0.02,0.29,0.01,Manabí
+131151,Barraganete,"7,477",0.71,0.03,0.27,0.01,Manabí
+131152,San Sebastián,"5,232",0.61,0.03,0.27,0.01,Manabí
+1312,Rocafuerte,"33,407",0.44,0.02,0.31,0.01,Manabí
+131250,Rocafuerte,"33,407",0.44,0.02,0.31,0.01,Manabí
+1313,Santa Ana,"47,203",0.54,0.02,0.29,0.01,Manabí
+131350,Santa Ana de Vuelta Larga,"22,265",0.46,0.02,0.30,0.01,Manabí
+131351,Ayacucho,"7,378",0.53,0.03,0.27,0.01,Manabí
+131352,Honorato Vásquez (Cab. en Vásquez),"5,870",0.64,0.03,0.27,0.01,Manabí
+131353,La Unión (De Santa Ana),"6,392",0.66,0.02,0.26,0.01,Manabí
+131355,San Pablo (Cab en Pueblo Nuevo),"5,298",0.65,0.03,0.28,0.01,Manabí
+1314,Sucre,"56,645",0.39,0.01,0.31,0.01,Manabí
+131450,Bahía de Caráquez,"25,698",0.32,0.02,0.33,0.01,Manabí
+131453,Charapoto,"20,019",0.41,0.02,0.27,0.01,Manabí
+131457,San Isidro,"10,928",0.52,0.02,0.29,0.01,Manabí
+1315,Tosagua,"38,104",0.53,0.02,0.28,0.01,Manabí
+131550,Tosagua,"28,073",0.52,0.02,0.29,0.01,Manabí
+131551,Bachillero,"3,780",0.55,0.04,0.27,0.01,Manabí
+131552,Angel Pedro Giler (La Estancilla),"6,251",0.55,0.04,0.25,0.01,Manabí
+1316,24 de Mayo,"28,715",0.57,0.02,0.30,0.01,Manabí
+131650,Sucre,"13,370",0.49,0.02,0.30,0.01,Manabí
+131651,Bellavista,"4,891",0.63,0.03,0.28,0.01,Manabí
+131652,Noboa,"6,502",0.65,0.03,0.28,0.01,Manabí
+131653,Arq. Sixto Durán Ballen,"3,952",0.66,0.03,0.27,0.01,Manabí
+1317,Pedernales,"54,625",0.54,0.02,0.31,0.01,Manabí
+131750,Pedernales,"33,363",0.46,0.02,0.30,0.01,Manabí
+131751,Cojimíes,"13,518",0.65,0.02,0.29,0.01,Manabí
+131752,10 de Agosto,"5,194",0.69,0.03,0.28,0.01,Manabí
+131753,Atahualpa,"2,550",0.70,0.04,0.25,0.01,Manabí
+1318,Olmedo,"9,809",0.61,0.03,0.29,0.01,Manabí
+131850,Olmedo,"9,809",0.61,0.03,0.29,0.01,Manabí
+1319,Puerto López,"20,209",0.53,0.03,0.27,0.01,Manabí
+131950,Puerto López,"10,754",0.51,0.03,0.27,0.01,Manabí
+131951,Machalilla,"4,961",0.59,0.04,0.26,0.01,Manabí
+131952,Salango,"4,494",0.54,0.04,0.26,0.01,Manabí
+1320,Jama,"23,095",0.56,0.02,0.30,0.01,Manabí
+132050,Jama,"23,095",0.56,0.02,0.30,0.01,Manabí
+1321,Jaramijo,"18,236",0.54,0.03,0.27,0.01,Manabí
+132150,Jaramijó,"18,236",0.54,0.03,0.27,0.01,Manabí
+1322,San Vicente,"21,781",0.49,0.02,0.29,0.01,Manabí
+132250,San Vicente,"15,064",0.44,0.02,0.30,0.01,Manabí
+132251,Canoa,"6,717",0.59,0.02,0.27,0.01,Manabí
+1401,Morona,"40,318",0.43,0.02,0.42,0.01,Morona Santiago
+140150,Macas,"18,512",0.20,0.03,0.35,0.01,Morona Santiago
+140151,Alshi (Cab. en 9 de Octubre)*,381,0.40,0.10,0.31,0.03,Morona Santiago
+140153,General Proaño,"2,577",0.52,0.05,0.37,0.02,Morona Santiago
+140156,San Isidro,782,0.55,0.07,0.36,0.03,Morona Santiago
+140157,Sevilla Don Bosco,"13,311",0.70,0.03,0.38,0.02,Morona Santiago
+140158,Sinaí,763,0.34,0.06,0.36,0.02,Morona Santiago
+140160,Zuña (Zuñac),223,0.52,0.10,0.32,0.04,Morona Santiago
+140162,Cuchaentza,"1,778",0.76,0.04,0.36,0.02,Morona Santiago
+140164,Rio Blanco,"1,991",0.44,0.06,0.36,0.02,Morona Santiago
+1402,Gualaquiza,"16,650",0.45,0.02,0.40,0.01,Morona Santiago
+140250,Gualaquiza,"8,843",0.24,0.02,0.35,0.01,Morona Santiago
+140251,Amazonas (Rosario de Cuyes),407,0.51,0.08,0.31,0.03,Morona Santiago
+140252,Bermejos,223,0.64,0.09,0.31,0.03,Morona Santiago
+140253,Bomboiza,"4,503",0.84,0.02,0.32,0.01,Morona Santiago
+140254,Chiguinda,550,0.43,0.06,0.34,0.03,Morona Santiago
+140255,El Rosario,608,0.49,0.07,0.31,0.02,Morona Santiago
+140256,Nueva Tarqui,511,0.53,0.08,0.30,0.02,Morona Santiago
+140257,San Miguel de Cuyes,184,0.47,0.09,0.32,0.04,Morona Santiago
+140258,El Ideal,821,0.37,0.07,0.30,0.02,Morona Santiago
+1403,Limón Indanza,"9,585",0.50,0.02,0.38,0.01,Morona Santiago
+140350,General Leonidas Plaza G. (Limón),"4,008",0.22,0.04,0.30,0.01,Morona Santiago
+140351,Indanza,"1,360",0.55,0.05,0.31,0.02,Morona Santiago
+140353,San Antonio (Cab. en San Antonio Centro),"1,919",0.87,0.03,0.35,0.02,Morona Santiago
+140356,San Miguel de Conchay,386,0.58,0.09,0.29,0.02,Morona Santiago
+140357,Santa Susana de Chiviaza (Cab. en Chiviaza),914,0.59,0.05,0.37,0.02,Morona Santiago
+140358,Yunganza (Cab. en El Rosario),998,0.70,0.05,0.32,0.02,Morona Santiago
+1404,Palora,"6,917",0.49,0.02,0.43,0.02,Morona Santiago
+140450,Palora,"3,933",0.23,0.02,0.33,0.01,Morona Santiago
+140451,Arapicos,482,0.85,0.05,0.31,0.02,Morona Santiago
+140452,Cumandá (Cab. en Colonia Agrícola Sevilla del Oro),345,0.82,0.05,0.34,0.03,Morona Santiago
+140454,Sangay (Cab. en Nayamanaca),"1,170",0.80,0.04,0.33,0.02,Morona Santiago
+140455,16 De Agosto,987,0.89,0.04,0.33,0.03,Morona Santiago
+1405,Santiago,"8,957",0.55,0.02,0.41,0.01,Morona Santiago
+140550,Santiago de Mendéz,"2,984",0.29,0.03,0.36,0.02,Morona Santiago
+140551,Copal,479,0.38,0.09,0.31,0.02,Morona Santiago
+140552,Chupianza,467,0.62,0.07,0.30,0.02,Morona Santiago
+140553,Patuca,"1,820",0.72,0.03,0.36,0.02,Morona Santiago
+140554,San Luis de el Acho (Cab. en el Acho),618,0.55,0.06,0.33,0.02,Morona Santiago
+140556,Tayuza,"1,510",0.70,0.04,0.36,0.02,Morona Santiago
+140557,San Francisco de Chinimbimi,"1,079",0.82,0.04,0.36,0.02,Morona Santiago
+1406,Sucúa,"18,215",0.47,0.01,0.45,0.02,Morona Santiago
+140650,Sucúa,"12,517",0.34,0.01,0.41,0.01,Morona Santiago
+140651,Asunción,"1,903",0.94,0.02,0.29,0.01,Morona Santiago
+140652,Huambi,"2,891",0.70,0.03,0.34,0.01,Morona Santiago
+140655,Santa Marianita de Jesús,904,0.59,0.08,0.32,0.02,Morona Santiago
+1407,Huamboya,"8,377",0.85,0.02,0.38,0.02,Morona Santiago
+140750,Huamboya,"2,516",0.68,0.03,0.41,0.02,Morona Santiago
+140751,Chiguaza,"5,861",0.92,0.02,0.32,0.02,Morona Santiago
+1408,San Juan Bosco,"3,845",0.53,0.03,0.40,0.02,Morona Santiago
+140850,San Juan Bosco,"2,130",0.31,0.04,0.32,0.02,Morona Santiago
+140851,Pan de Azúcar,265,0.67,0.07,0.29,0.03,Morona Santiago
+140852,San Carlos de Limón,777,0.96,0.02,0.32,0.04,Morona Santiago
+140853,San Jacinto de Wakambeis,204,0.75,0.07,0.32,0.03,Morona Santiago
+140854,Santiago de Pananza,469,0.68,0.07,0.32,0.02,Morona Santiago
+1409,Taisha,"18,079",0.91,0.01,0.34,0.01,Morona Santiago
+140950,Taisha,"5,680",0.86,0.02,0.39,0.02,Morona Santiago
+140951,Huasaga (Cab en Wampuk),"1,509",0.92,0.02,0.30,0.02,Morona Santiago
+140952,Macuma,"3,885",0.92,0.02,0.30,0.01,Morona Santiago
+140953,Tuutinentza,"4,634",0.95,0.01,0.30,0.01,Morona Santiago
+140954,Pumpuentsa,"2,371",0.93,0.02,0.31,0.02,Morona Santiago
+1410,Logroño,"5,719",0.74,0.01,0.47,0.02,Morona Santiago
+141050,Logroño,"2,049",0.35,0.03,0.35,0.02,Morona Santiago
+141051,Yaupi,"1,777",0.95,0.01,0.32,0.03,Morona Santiago
+141052,Shimpis,"1,893",0.96,0.02,0.28,0.02,Morona Santiago
+1411,Pablo VI,"1,821",0.60,0.03,0.44,0.02,Morona Santiago
+141150,Pablo VI,"1,821",0.60,0.03,0.44,0.02,Morona Santiago
+1412,Tiwintza,"6,299",0.82,0.02,0.41,0.02,Morona Santiago
+141250,Santiago,"4,104",0.81,0.02,0.43,0.02,Morona Santiago
+141251,San José de Morona,"2,195",0.85,0.02,0.37,0.02,Morona Santiago
+1501,Tena,"59,655",0.57,0.01,0.48,0.01,Napo
+150150,Tena,"28,421",0.28,0.01,0.40,0.01,Napo
+150151,Ahuano,"5,441",0.87,0.02,0.35,0.02,Napo
+150153,Chontapunta,"6,432",0.95,0.01,0.30,0.01,Napo
+150154,Pano,"1,392",0.77,0.04,0.33,0.02,Napo
+150155,Puerto Misahualli,"5,050",0.77,0.02,0.39,0.02,Napo
+150156,Puerto Napo,"5,350",0.71,0.02,0.41,0.02,Napo
+150157,Talag,"2,735",0.94,0.02,0.31,0.02,Napo
+150158,San Juan de Muyuna,"4,834",0.81,0.02,0.32,0.01,Napo
+1503,Archidona,"24,725",0.74,0.01,0.44,0.01,Napo
+150350,Archidona,"11,538",0.57,0.01,0.44,0.01,Napo
+150352,Cotundo,"5,784",0.87,0.02,0.32,0.01,Napo
+150354,San Pablo de Ushpayacu,"4,891",0.93,0.01,0.29,0.01,Napo
+150356,Hatun Sumaku,"2,512",0.88,0.02,0.30,0.01,Napo
+1504,El Chaco,"7,876",0.38,0.02,0.37,0.01,Napo
+150450,El Chaco,"4,739",0.28,0.03,0.36,0.01,Napo
+150451,Gonzalo Díaz de Pineda (El Bombón),535,0.53,0.08,0.32,0.02,Napo
+150452,Linares,209,0.66,0.07,0.31,0.03,Napo
+150453,Oyacachi,615,0.80,0.05,0.28,0.02,Napo
+150454,Santa Rosa,"1,241",0.42,0.05,0.36,0.02,Napo
+150455,Sardinas,537,0.37,0.06,0.36,0.02,Napo
+1507,Quijos,"5,943",0.31,0.02,0.37,0.01,Napo
+150750,Baeza,"1,946",0.22,0.03,0.36,0.01,Napo
+150751,Cosanga,505,0.33,0.06,0.34,0.02,Napo
+150752,Cuyuja,614,0.51,0.05,0.33,0.02,Napo
+150753,Papallacta,696,0.43,0.05,0.35,0.02,Napo
+150754,San Francisco de Borja (Virgilio Dávila),"2,143",0.28,0.03,0.35,0.01,Napo
+150756,Sumaco,39,0.57,0.14,0.28,0.06,Napo
+1509,Carlos Julio Arosemena Tola,"3,631",0.60,0.03,0.41,0.01,Napo
+150950,Carlos Julio Arosemena Tola (Zatza-Yacu),"3,631",0.60,0.03,0.41,0.01,Napo
+1601,Pastaza,"61,021",0.42,0.01,0.44,0.01,Pastaza
+160150,Puyo,"36,065",0.20,0.01,0.37,0.01,Pastaza
+160152,Canelos,"2,142",0.81,0.03,0.30,0.02,Pastaza
+160154,10 de Agosto,"1,132",0.73,0.03,0.34,0.02,Pastaza
+160155,Fátima,847,0.55,0.03,0.35,0.02,Pastaza
+160156,Montalvo (Andoas),"3,592",0.86,0.02,0.31,0.02,Pastaza
+160157,Pomona,225,0.60,0.07,0.30,0.03,Pastaza
+160158,Río Corrientes,235,0.86,0.05,0.32,0.03,Pastaza
+160159,Río Tigre,656,0.88,0.03,0.30,0.02,Pastaza
+160161,Sarayacu,"2,538",0.86,0.02,0.32,0.02,Pastaza
+160162,Simón Bolívar (Cab. en Mushullacta),"5,656",0.80,0.02,0.32,0.01,Pastaza
+160163,Tarqui,"3,818",0.56,0.02,0.43,0.02,Pastaza
+160164,Teniente Hugo Ortiz,"1,042",0.71,0.04,0.31,0.02,Pastaza
+160165,Veracruz (Indillama) (Cab. en Indillama),"1,758",0.44,0.03,0.34,0.02,Pastaza
+160166,El Triunfo,"1,315",0.67,0.03,0.31,0.01,Pastaza
+1602,Mera,"11,000",0.35,0.01,0.40,0.01,Pastaza
+160250,Mera,"1,521",0.34,0.03,0.36,0.02,Pastaza
+160251,Madre Tierra,"1,572",0.74,0.02,0.37,0.02,Pastaza
+160252,Shell,"7,907",0.27,0.01,0.38,0.01,Pastaza
+1603,Santa Clara,"3,560",0.61,0.02,0.37,0.01,Pastaza
+160350,Santa Clara,"2,825",0.58,0.02,0.38,0.01,Pastaza
+160351,San José,735,0.74,0.04,0.32,0.02,Pastaza
+1604,Arajuno,"6,486",0.81,0.02,0.33,0.01,Pastaza
+160450,Arajuno,"3,801",0.77,0.02,0.34,0.01,Pastaza
+160451,Curaray,"2,685",0.86,0.02,0.30,0.02,Pastaza
+1701,Quito,"2,236,186",0.11,0.01,0.39,0.01,Pichincha
+170150,Quito,"1,617,204",0.10,0.01,0.39,0.01,Pichincha
+170151,Alangasí,"24,207",0.06,0.01,0.39,0.01,Pichincha
+170152,Amaguaña,"31,057",0.13,0.01,0.32,0.01,Pichincha
+170153,Atahualpa (Habaspamba),"1,894",0.32,0.05,0.30,0.01,Pichincha
+170154,Calacalí,"3,893",0.32,0.04,0.31,0.01,Pichincha
+170155,Calderón (Carapungo),"152,044",0.10,0.01,0.35,0.01,Pichincha
+170156,Conocoto,"81,880",0.05,0.01,0.37,0.01,Pichincha
+170157,Cumbayá,"31,394",0.04,0.01,0.40,0.01,Pichincha
+170158,Chavezpamba,794,0.30,0.06,0.29,0.02,Pichincha
+170159,Checa (Chilpa),"8,959",0.30,0.03,0.30,0.01,Pichincha
+170160,El Quinche,"16,020",0.26,0.02,0.31,0.01,Pichincha
+170161,Gualea,"2,024",0.46,0.07,0.28,0.01,Pichincha
+170162,Guangopolo,"3,059",0.16,0.02,0.29,0.01,Pichincha
+170163,Guayllabamba,"16,212",0.17,0.02,0.31,0.01,Pichincha
+170164,La Merced,"8,368",0.16,0.02,0.34,0.01,Pichincha
+170165,Llano Chico,"10,662",0.15,0.02,0.31,0.01,Pichincha
+170166,Lloa,"1,483",0.48,0.06,0.29,0.01,Pichincha
+170168,Nanegal,"2,626",0.55,0.05,0.29,0.01,Pichincha
+170169,Nanegalito,"3,021",0.34,0.04,0.29,0.01,Pichincha
+170170,Nayón,"15,597",0.07,0.01,0.44,0.01,Pichincha
+170171,Nono,"1,732",0.50,0.06,0.29,0.01,Pichincha
+170172,Pacto,"4,787",0.43,0.05,0.29,0.01,Pichincha
+170174,Perucho,789,0.27,0.05,0.30,0.02,Pichincha
+170175,Pifo,"16,618",0.23,0.02,0.33,0.01,Pichincha
+170176,Pintag,"17,888",0.29,0.02,0.30,0.01,Pichincha
+170177,Pomasqui,"28,901",0.06,0.01,0.39,0.01,Pichincha
+170178,Puéllaro,"5,473",0.31,0.03,0.29,0.01,Pichincha
+170179,Puembo,"13,578",0.14,0.02,0.35,0.01,Pichincha
+170180,San Antonio,"32,308",0.18,0.01,0.37,0.01,Pichincha
+170181,San José de Minas,"7,202",0.50,0.05,0.29,0.01,Pichincha
+170183,Tababela,"2,823",0.14,0.02,0.32,0.01,Pichincha
+170184,Tumbaco,"49,849",0.11,0.01,0.39,0.01,Pichincha
+170185,Yaruquí,"17,823",0.23,0.02,0.31,0.01,Pichincha
+170186,Zámbiza,"4,017",0.13,0.02,0.33,0.01,Pichincha
+1702,Cayambe,"85,604",0.37,0.02,0.33,0.01,Pichincha
+170250,Cayambe,"40,100",0.27,0.02,0.34,0.01,Pichincha
+170251,Ascázubi,"5,037",0.19,0.03,0.29,0.01,Pichincha
+170252,Cangahua,"16,049",0.56,0.04,0.30,0.01,Pichincha
+170253,Olmedo (Pesillo),"6,743",0.56,0.05,0.27,0.01,Pichincha
+170254,Otón,"2,749",0.45,0.04,0.29,0.01,Pichincha
+170255,Santa Rosa de Cuzubamba,"4,147",0.33,0.04,0.28,0.01,Pichincha
+170256,San José de Ayora,"10,779",0.40,0.03,0.30,0.01,Pichincha
+1703,Mejía,"81,199",0.24,0.02,0.32,0.01,Pichincha
+170350,Machachi,"27,585",0.17,0.02,0.31,0.01,Pichincha
+170351,Aloag,"9,218",0.28,0.03,0.31,0.01,Pichincha
+170352,Aloasí,"9,686",0.24,0.03,0.30,0.01,Pichincha
+170353,Cutuglahua,"16,722",0.30,0.03,0.30,0.01,Pichincha
+170354,El Chaupi,"1,443",0.41,0.06,0.29,0.01,Pichincha
+170355,Manuel Cornejo Astorga (Tandapi),"3,632",0.64,0.06,0.27,0.01,Pichincha
+170356,Tambillo,"8,306",0.17,0.03,0.31,0.01,Pichincha
+170357,Uyumbicho,"4,607",0.10,0.02,0.31,0.01,Pichincha
+1704,Pedro Moncayo,"32,979",0.38,0.03,0.30,0.01,Pichincha
+170450,Tabacundo,"16,373",0.32,0.03,0.30,0.01,Pichincha
+170451,La Esperanza,"3,982",0.42,0.04,0.28,0.01,Pichincha
+170452,Malchinguí,"4,618",0.41,0.04,0.27,0.01,Pichincha
+170453,Tocachi,"1,985",0.39,0.05,0.28,0.01,Pichincha
+170454,Tupigachi,"6,021",0.48,0.05,0.28,0.01,Pichincha
+1705,Rumiñahui,"85,748",0.10,0.01,0.37,0.01,Pichincha
+170550,Sangolquí,"81,069",0.09,0.01,0.37,0.01,Pichincha
+170551,Cotogchoa,"3,937",0.27,0.04,0.28,0.01,Pichincha
+170552,Rumipamba,742,0.45,0.09,0.29,0.02,Pichincha
+1707,San Miguel de Los Bancos,"17,093",0.42,0.04,0.31,0.01,Pichincha
+170750,San Miguel de los Bancos,"13,486",0.43,0.04,0.30,0.01,Pichincha
+170751,Mindo,"3,607",0.38,0.05,0.33,0.02,Pichincha
+1708,Pedro Vicente Maldonado,"12,881",0.38,0.04,0.31,0.01,Pichincha
+170850,Pedro Vicente Maldonado,"12,881",0.38,0.04,0.31,0.01,Pichincha
+1709,Puerto Quito,"20,362",0.37,0.06,0.30,0.01,Pichincha
+170950,Puerto Quito,"20,362",0.37,0.06,0.30,0.01,Pichincha
+1801,Ambato,"327,335",0.23,0.01,0.38,0.01,Tungurahua
+180150,Ambato,"176,963",0.11,0.01,0.35,0.01,Tungurahua
+180151,Ambatillo,"5,230",0.43,0.02,0.31,0.01,Tungurahua
+180152,Atahualpa (Chisalata),"10,175",0.21,0.02,0.34,0.01,Tungurahua
+180153,Augusto N. Martinez (Mundugleo),"8,145",0.37,0.02,0.34,0.01,Tungurahua
+180154,Constantino Fernández (Cab. en Cullitahua),"2,510",0.36,0.03,0.30,0.01,Tungurahua
+180155,Huachi Grande,"10,546",0.27,0.02,0.34,0.01,Tungurahua
+180156,Izamba,"14,469",0.23,0.02,0.35,0.01,Tungurahua
+180157,Juan Benigno Vela,"7,415",0.43,0.02,0.29,0.01,Tungurahua
+180158,Montalvo,"3,912",0.27,0.03,0.31,0.01,Tungurahua
+180159,Pasa,"6,437",0.54,0.02,0.31,0.01,Tungurahua
+180160,Picaigua,"8,264",0.32,0.02,0.30,0.01,Tungurahua
+180161,Pilaguín (Pilahuín),"11,972",0.58,0.03,0.30,0.01,Tungurahua
+180162,Quisapincha (Quizapincha),"12,847",0.54,0.02,0.32,0.01,Tungurahua
+180163,San Bartolomé De Pinllog,"9,066",0.29,0.02,0.34,0.01,Tungurahua
+180164,San Fernando (Pasa San Fernando),"2,460",0.56,0.03,0.31,0.01,Tungurahua
+180165,Santa Rosa,"20,912",0.42,0.02,0.32,0.01,Tungurahua
+180166,Totoras,"6,883",0.27,0.02,0.32,0.01,Tungurahua
+180167,Cunchibamba,"4,473",0.31,0.03,0.31,0.01,Tungurahua
+180168,Unamuncho,"4,656",0.36,0.03,0.31,0.01,Tungurahua
+1802,Baños de Agua Santa,"19,561",0.15,0.02,0.34,0.01,Tungurahua
+180250,Baños,"14,224",0.12,0.02,0.33,0.01,Tungurahua
+180251,Lligua*,280,0.22,0.07,0.32,0.03,Tungurahua
+180252,Río Negro,"1,244",0.23,0.03,0.32,0.01,Tungurahua
+180253,Río Verde,"1,281",0.32,0.05,0.33,0.02,Tungurahua
+180254,Ulba,"2,532",0.16,0.02,0.34,0.02,Tungurahua
+1803,Cevallos,"8,121",0.27,0.03,0.32,0.01,Tungurahua
+180350,Cevallos,"8,121",0.27,0.03,0.32,0.01,Tungurahua
+1804,Mocha,"6,765",0.30,0.02,0.30,0.01,Tungurahua
+180450,Mocha,"5,496",0.31,0.03,0.30,0.01,Tungurahua
+180451,Pinguili,"1,269",0.29,0.04,0.29,0.01,Tungurahua
+1805,Patate,"13,415",0.38,0.02,0.34,0.01,Tungurahua
+180550,Patate,"8,088",0.27,0.02,0.33,0.01,Tungurahua
+180551,El Triunfo,"1,576",0.56,0.04,0.30,0.01,Tungurahua
+180552,Los Andes (Cab. en Poatug),"1,391",0.43,0.04,0.33,0.01,Tungurahua
+180553,Sucre (Cab. en Sucre-Patate-Urco),"2,360",0.57,0.04,0.30,0.01,Tungurahua
+1806,Quero,"19,139",0.44,0.02,0.31,0.01,Tungurahua
+180650,Quero,"14,228",0.44,0.02,0.31,0.01,Tungurahua
+180651,Rumipamba,"2,939",0.50,0.03,0.28,0.01,Tungurahua
+180652,Yanayacu - Mochapata (Cab. en Yanayacu),"1,972",0.37,0.04,0.29,0.01,Tungurahua
+1807,San Pedro de Pelileo,"56,172",0.41,0.02,0.33,0.01,Tungurahua
+180750,Pelileo,"24,487",0.32,0.02,0.33,0.01,Tungurahua
+180751,Benítez (Pachanlica),"2,183",0.31,0.03,0.30,0.01,Tungurahua
+180752,Bolívar,"2,700",0.38,0.03,0.29,0.01,Tungurahua
+180753,Cotaló,"1,837",0.48,0.04,0.29,0.01,Tungurahua
+180754,Chiquicha (Cab. en Chiquicha Grande),"2,436",0.59,0.04,0.29,0.01,Tungurahua
+180755,El Rosario (Rumichaca),"2,597",0.62,0.03,0.31,0.01,Tungurahua
+180756,García Moreno (Chumaqui),"6,306",0.39,0.02,0.32,0.01,Tungurahua
+180757,Guambaló (Huambaló),"7,801",0.45,0.02,0.29,0.01,Tungurahua
+180758,Salasaca,"5,825",0.56,0.03,0.30,0.01,Tungurahua
+1808,Santiago de Píllaro,"38,228",0.30,0.02,0.33,0.01,Tungurahua
+180850,Píllaro,"13,310",0.19,0.02,0.34,0.01,Tungurahua
+180851,Baquerizo Moreno*,277,0.20,0.06,0.29,0.03,Tungurahua
+180852,Emilio María Terán (Rumipamba),"1,504",0.43,0.04,0.29,0.01,Tungurahua
+180853,Marcos Espinel (Chacata),"2,334",0.26,0.03,0.29,0.01,Tungurahua
+180854,Presidente Urbina (Chagrapamba-Patzucul),"2,792",0.25,0.03,0.29,0.01,Tungurahua
+180855,San Andrés,"11,167",0.44,0.02,0.28,0.01,Tungurahua
+180856,San José De Poalo,"1,872",0.40,0.03,0.29,0.01,Tungurahua
+180857,San Miguelito,"4,972",0.28,0.02,0.31,0.01,Tungurahua
+1809,Tisaleo,"12,116",0.38,0.02,0.30,0.01,Tungurahua
+180950,Tisaleo,"10,810",0.39,0.02,0.30,0.01,Tungurahua
+180951,Quinchicoto,"1,306",0.30,0.04,0.28,0.01,Tungurahua
+1901,Zamora,"24,549",0.31,0.02,0.36,0.01,Zamora Chinchipe
+190150,Zamora,"12,547",0.13,0.02,0.33,0.01,Zamora Chinchipe
+190151,Cumbaratza,"4,401",0.46,0.03,0.31,0.01,Zamora Chinchipe
+190152,Guadalupe,"2,850",0.47,0.03,0.31,0.01,Zamora Chinchipe
+190153,Imbana (La Victoria de Imbana),"1,125",0.67,0.04,0.27,0.02,Zamora Chinchipe
+190155,Sabanilla,576,0.69,0.05,0.27,0.02,Zamora Chinchipe
+190156,Timbara,949,0.48,0.06,0.29,0.02,Zamora Chinchipe
+190158,San Carlos de las Minas,"2,101",0.46,0.05,0.29,0.02,Zamora Chinchipe
+1902,Chinchipe,"8,815",0.48,0.03,0.32,0.01,Zamora Chinchipe
+190250,Zumba,"6,617",0.48,0.03,0.33,0.01,Zamora Chinchipe
+190251,Chito,"1,228",0.50,0.05,0.27,0.02,Zamora Chinchipe
+190252,El Chorro*,201,0.30,0.09,0.24,0.03,Zamora Chinchipe
+190254,La Chonta,261,0.54,0.09,0.24,0.02,Zamora Chinchipe
+190256,Pucapamba,92,0.56,0.10,0.29,0.05,Zamora Chinchipe
+190259,San Andrés,416,0.48,0.08,0.26,0.02,Zamora Chinchipe
+1903,Nangaritza,"5,164",0.60,0.03,0.33,0.01,Zamora Chinchipe
+190350,Guayzimi,"2,574",0.51,0.03,0.34,0.01,Zamora Chinchipe
+190351,Zurmi,"2,004",0.67,0.04,0.28,0.02,Zamora Chinchipe
+190352,Nuevo Paraíso,586,0.75,0.04,0.31,0.02,Zamora Chinchipe
+1904,Yacuambi,"5,814",0.59,0.03,0.31,0.01,Zamora Chinchipe
+190450,28 de Mayo (San josé de Yacuambi),"3,132",0.57,0.03,0.34,0.02,Zamora Chinchipe
+190451,La Paz,"2,043",0.58,0.04,0.27,0.01,Zamora Chinchipe
+190452,Tutupali,639,0.67,0.06,0.28,0.02,Zamora Chinchipe
+1905,Yantzaza,"18,443",0.42,0.02,0.34,0.01,Zamora Chinchipe
+190550,Yanzatza,"12,340",0.34,0.02,0.34,0.01,Zamora Chinchipe
+190551,Chicana,"2,661",0.47,0.04,0.28,0.01,Zamora Chinchipe
+190553,Los Encuentros,"3,442",0.66,0.04,0.28,0.01,Zamora Chinchipe
+1906,El Pangui,"8,616",0.47,0.02,0.33,0.01,Zamora Chinchipe
+190650,El Pangui,"4,985",0.41,0.03,0.34,0.01,Zamora Chinchipe
+190651,El Guisme,"1,604",0.65,0.04,0.27,0.01,Zamora Chinchipe
+190652,Pachicutza,"1,290",0.43,0.04,0.29,0.02,Zamora Chinchipe
+190653,Tundayme,737,0.55,0.04,0.32,0.02,Zamora Chinchipe
+1907,Centinela del Condor,"6,404",0.46,0.03,0.31,0.01,Zamora Chinchipe
+190750,Zumbi,"4,218",0.44,0.03,0.32,0.01,Zamora Chinchipe
+190752,Triunfo-Dorado,904,0.58,0.04,0.31,0.02,Zamora Chinchipe
+190753,Panguintza,"1,282",0.43,0.05,0.27,0.01,Zamora Chinchipe
+1908,Palanda,"8,059",0.59,0.03,0.30,0.01,Zamora Chinchipe
+190850,Palanda,"3,672",0.54,0.03,0.31,0.01,Zamora Chinchipe
+190851,El Porvenir del Carmen,"1,484",0.70,0.04,0.25,0.02,Zamora Chinchipe
+190852,San Francisco del Vergel,"1,318",0.71,0.05,0.24,0.02,Zamora Chinchipe
+190853,Valladolid,"1,230",0.44,0.05,0.30,0.02,Zamora Chinchipe
+190854,La Canela,355,0.62,0.09,0.24,0.02,Zamora Chinchipe
+1909,Paquisha,"3,828",0.44,0.04,0.30,0.01,Zamora Chinchipe
+190950,Paquisha,"1,444",0.40,0.05,0.33,0.02,Zamora Chinchipe
+190951,Bellavista,301,0.47,0.09,0.26,0.03,Zamora Chinchipe
+190952,Nuevo Quito,"2,083",0.47,0.05,0.29,0.02,Zamora Chinchipe
+2001,San Cristóbal,"6,883",0.00,0.00,0.29,0.01,Galápagos
+200150,Puerto Baquerizo Moreno,"6,130",0.00,0.00,0.29,0.01,Galápagos
+200151,El Progreso,616,0.00,0.00,0.27,0.02,Galápagos
+200152,Isla Santa María (Floreana),137,0.00,0.00,0.26,0.03,Galápagos
+2002,Isabela,"2,110",0.00,0.00,0.28,0.01,Galápagos
+200250,Puerto Villamil,"1,953",0.00,0.00,0.27,0.01,Galápagos
+200251,Tomás de Berlanga (Santo Tomás),157,0.00,0.00,0.28,0.03,Galápagos
+2003,Santa Cruz,"13,931",0.00,0.00,0.28,0.01,Galápagos
+200350,Puerto Ayora,"11,057",0.00,0.00,0.28,0.01,Galápagos
+200351,Bellavista,"2,401",0.00,0.00,0.27,0.01,Galápagos
+200352,Santa Rosa,473,0.00,0.00,0.27,0.02,Galápagos
+2101,Lago Agrio,"91,159",0.35,0.01,0.37,0.01,Sucumbíos
+210150,Nueva Loja,"56,524",0.21,0.02,0.34,0.01,Sucumbíos
+210152,Dureno,"2,749",0.55,0.03,0.39,0.03,Sucumbíos
+210153,General Farfán,"6,636",0.66,0.03,0.32,0.01,Sucumbíos
+210155,El Eno,"6,631",0.63,0.02,0.34,0.01,Sucumbíos
+210156,Pacayacu,"7,990",0.54,0.03,0.35,0.01,Sucumbíos
+210157,Jambelí,"3,313",0.57,0.03,0.37,0.02,Sucumbíos
+210158,Santa Cecilia,"6,254",0.54,0.02,0.36,0.01,Sucumbíos
+210160,10 de Agosto,"1,062",0.58,0.06,0.28,0.02,Sucumbíos
+2102,Gonzalo Pizarro,"8,325",0.40,0.03,0.39,0.01,Sucumbíos
+210250,Lumbaquí,"3,060",0.28,0.03,0.36,0.01,Sucumbíos
+210251,El Reventador,"1,400",0.32,0.04,0.36,0.02,Sucumbíos
+210252,Gonzalo Pizarro,"2,955",0.58,0.04,0.41,0.02,Sucumbíos
+210254,Puerto Libre,910,0.36,0.06,0.32,0.02,Sucumbíos
+2103,Putumayo,"9,627",0.57,0.03,0.37,0.01,Sucumbíos
+210350,Puerto El Carmen del Putumayo,"3,450",0.49,0.03,0.40,0.02,Sucumbíos
+210351,Palma Roja,"3,767",0.66,0.03,0.34,0.01,Sucumbíos
+210352,Puerto Bolívar (Puerto Montufar),70,0.92,0.09,0.25,0.05,Sucumbíos
+210353,Puerto Rodríguez,395,0.80,0.08,0.30,0.02,Sucumbíos
+210354,Santa Elena,"1,945",0.49,0.07,0.30,0.02,Sucumbíos
+2104,Shushufindi,"42,317",0.46,0.02,0.36,0.01,Sucumbíos
+210450,Shushufindi,"25,733",0.37,0.02,0.35,0.01,Sucumbíos
+210451,Limoncocha,"5,545",0.72,0.03,0.33,0.01,Sucumbíos
+210452,Pañacocha,860,0.77,0.05,0.31,0.02,Sucumbíos
+210453,San Roque (Cab San Vicente),"3,118",0.57,0.04,0.29,0.01,Sucumbíos
+210454,San Pedro de los Cofanes,"3,320",0.44,0.03,0.33,0.01,Sucumbíos
+210455,Siete de Julio,"3,741",0.54,0.03,0.31,0.01,Sucumbíos
+2105,Sucumbíos,"3,390",0.41,0.04,0.35,0.02,Sucumbíos
+210550,La Bonita,811,0.27,0.05,0.35,0.02,Sucumbíos
+210551,El Playón de San Francisco,"1,414",0.42,0.06,0.34,0.02,Sucumbíos
+210552,La Sofía*,104,0.39,0.11,0.27,0.04,Sucumbíos
+210553,Rosa Florida,382,0.51,0.08,0.31,0.02,Sucumbíos
+210554,Santa Bárbara,679,0.50,0.06,0.33,0.02,Sucumbíos
+2106,Cascales,"10,942",0.54,0.02,0.38,0.01,Sucumbíos
+210650,El Dorado de Cascales,"7,412",0.58,0.02,0.40,0.01,Sucumbíos
+210651,Santa Rosa de Sucumbíos,781,0.45,0.07,0.32,0.02,Sucumbíos
+210652,Sevilla,"2,749",0.48,0.04,0.32,0.01,Sucumbíos
+2107,Cuyabeno,"6,518",0.50,0.02,0.38,0.01,Sucumbíos
+210750,Tarapoa,"4,719",0.49,0.02,0.39,0.02,Sucumbíos
+210751,Cuyabeno,389,0.74,0.08,0.29,0.03,Sucumbíos
+210752,Aguas Negras,"1,410",0.49,0.05,0.35,0.02,Sucumbíos
+2201,Orellana,"70,672",0.45,0.01,0.44,0.01,Orellana
+220150,Puerto Francisco de Orellana (Coca),"43,686",0.30,0.02,0.41,0.01,Orellana
+220151,Dayuma,"5,838",0.60,0.05,0.34,0.01,Orellana
+220152,Taracoa,"2,546",0.65,0.04,0.38,0.02,Orellana
+220153,Alejandro Labaka,"1,233",0.72,0.04,0.35,0.02,Orellana
+220154,El Dorado,"1,639",0.48,0.06,0.31,0.02,Orellana
+220155,El Edén,898,0.85,0.05,0.32,0.03,Orellana
+220156,García Moreno,"1,091",0.75,0.04,0.35,0.02,Orellana
+220157,Inés Arango,"3,002",0.62,0.04,0.33,0.01,Orellana
+220158,La Belleza,"4,128",0.82,0.02,0.32,0.01,Orellana
+220159,Nuevo Paraíso,"2,648",0.73,0.04,0.34,0.02,Orellana
+220160,San José de Guayusa,"1,951",0.78,0.03,0.36,0.02,Orellana
+220161,San Luis de Armenia,"2,012",0.89,0.03,0.32,0.02,Orellana
+2202,Aguarico,"4,478",0.65,0.04,0.45,0.02,Orellana
+220250,Nuevo Rocafuerte,"1,015",0.48,0.05,0.44,0.03,Orellana
+220251,Capitán Augusto Rivadeneyra,701,0.85,0.05,0.30,0.02,Orellana
+220252,Cononaco,519,0.65,0.11,0.27,0.02,Orellana
+220253,Santa María de Huiririma,729,0.85,0.05,0.32,0.03,Orellana
+220254,Tiputini,"1,249",0.55,0.03,0.49,0.03,Orellana
+220255,Yasuní,265,0.65,0.12,0.29,0.03,Orellana
+2203,La Joya de los Sachas,"36,803",0.43,0.02,0.41,0.01,Orellana
+220350,La Joya de los Sachas,"17,299",0.22,0.03,0.38,0.01,Orellana
+220351,Enokanqui,"2,362",0.57,0.04,0.33,0.02,Orellana
+220352,Pompeya,"1,204",0.85,0.05,0.28,0.02,Orellana
+220353,San Carlos,"2,846",0.65,0.05,0.29,0.01,Orellana
+220354,San Sebastián del Coca,"3,353",0.66,0.04,0.40,0.02,Orellana
+220355,Lago San Pedro,"1,861",0.55,0.06,0.31,0.02,Orellana
+220356,Rumipamba,"1,971",0.72,0.04,0.29,0.01,Orellana
+220357,3 de noviembre,"3,007",0.57,0.05,0.31,0.01,Orellana
+220358,Unión Milagreña,"2,900",0.53,0.05,0.33,0.01,Orellana
+2204,Loreto,"21,061",0.70,0.02,0.42,0.01,Orellana
+220450,Loreto,"4,129",0.33,0.03,0.40,0.01,Orellana
+220451,Avila (Cab en Huiruno),"4,331",0.72,0.03,0.37,0.01,Orellana
+220452,Puerto Murialdo,"3,374",0.86,0.02,0.31,0.02,Orellana
+220453,San José del Payamino,"3,125",0.74,0.03,0.32,0.01,Orellana
+220454,San José de Dahuano,"5,045",0.83,0.02,0.34,0.01,Orellana
+220455,San Vicente de Huaticocha,"1,057",0.87,0.08,0.38,0.02,Orellana
+2301,Santo Domingo,"366,422",0.27,0.01,0.36,0.01,Santo Domingo
+230150,Santo Domingo,"304,576",0.24,0.01,0.36,0.01,Santo Domingo
+230151,Alluriquín,"9,696",0.36,0.02,0.31,0.01,Santo Domingo
+230152,Puerto Limón,"9,260",0.42,0.03,0.33,0.01,Santo Domingo
+230153,Luz de América,"10,776",0.36,0.02,0.33,0.01,Santo Domingo
+230154,San Jacinto del Búa,"11,576",0.44,0.03,0.30,0.01,Santo Domingo
+230155,Valle Hermoso,"9,270",0.34,0.02,0.31,0.01,Santo Domingo
+230156,El Esfuerzo,"5,715",0.38,0.03,0.30,0.01,Santo Domingo
+230157,Santa María del Toachi,"5,553",0.43,0.03,0.30,0.01,Santo Domingo
+2302,La Concordia,"42,278",0.39,0.02,0.35,0.01,Santo Domingo
+230250,La Concordia,"30,309",0.34,0.02,0.35,0.01,Santo Domingo
+230251,Monterrey,"5,365",0.51,0.03,0.32,0.01,Santo Domingo
+230252,Las Villegas,"4,327",0.45,0.03,0.33,0.01,Santo Domingo
+230253,Plan Piloto,"2,277",0.57,0.04,0.30,0.01,Santo Domingo
+2401,Santa Elena,"142,822",0.29,0.01,0.31,0.01,Santa Elenea
+240150,Santa Elena,"52,661",0.26,0.02,0.33,0.01,Santa Elenea
+240151,Atahualpa,"3,334",0.26,0.04,0.29,0.01,Santa Elenea
+240152,Colonche,"31,197",0.36,0.03,0.28,0.01,Santa Elenea
+240153,Chanduy,"16,346",0.30,0.02,0.28,0.01,Santa Elenea
+240154,Manglaralto,"29,112",0.26,0.02,0.30,0.01,Santa Elenea
+240155,Simón Bolívar,"3,296",0.26,0.05,0.30,0.01,Santa Elenea
+240156,San José de Ancón,"6,876",0.21,0.03,0.31,0.01,Santa Elenea
+2402,Libertad,"95,204",0.27,0.02,0.32,0.01,Santa Elenea
+240250,Libertad,"95,204",0.27,0.02,0.32,0.01,Santa Elenea
+2403,Salinas,"66,962",0.29,0.02,0.36,0.01,Santa Elenea
+240350,Salinas,"33,151",0.28,0.02,0.38,0.02,Santa Elenea
+240351,Anconcito,"11,795",0.39,0.04,0.27,0.01,Santa Elenea
+240352,José Luis Tamayo,"22,016",0.24,0.03,0.33,0.01,Santa Elenea
